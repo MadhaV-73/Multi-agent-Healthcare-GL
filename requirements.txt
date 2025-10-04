@@ -1,11 +1,11 @@
 streamlit>=1.28.0
 pandas>=2.0.0
 numpy>=1.24.0
-fastapi==0.68.0
-uvicorn[standard]==0.15.0
-starlette==0.14.2
+fastapi
+uvicorn[standard]
+starlette
 aiofiles
 annotated-types
-gunicorn==20.1.0
-python-multipart==0.0.5
+gunicorn
+python-multipart
 jinja2==3.0.3

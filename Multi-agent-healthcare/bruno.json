@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Multi-agent-healthcare",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
