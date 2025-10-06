@@ -9,3 +9,5 @@ annotated-types
 gunicorn
 python-multipart
 jinja2==3.0.3
+requests>=2.31.0
+pydantic>=2.0.0
