@@ -13,6 +13,18 @@ from pathlib import Path
 # Base directory (project root)
 BASE_DIR = Path(__file__).parent
 
+# Use /tmp for uploads on Render (ephemeral storage)
+if os.environ.get('RENDER'):
+    UPLOADS_DIR = Path("/tmp/uploads")
+    LOGS_DIR = Path("/tmp/logs")
+else:
+    UPLOADS_DIR = BASE_DIR / "uploads"
+    LOGS_DIR = BASE_DIR / "logs"
+
+# Create directories if they don't exist
+for directory in [UPLOADS_DIR, LOGS_DIR]:
+    directory.mkdir(exist_ok=True, parents=True)   
+    
 # Data directories
 DATA_DIR = BASE_DIR / "data"
 UPLOADS_DIR = BASE_DIR / "uploads"
