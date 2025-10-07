@@ -1,0 +1,11 @@
+drug_a,drug_b,level,note
+Ibuprofen,Aspirin,moderate,Increased risk of stomach bleeding. Avoid combination or use under medical supervision.
+Ibuprofen,Naproxen,high,Both are NSAIDs - do NOT combine. Significantly increased risk of GI bleeding and kidney damage.
+Aspirin,Naproxen,high,Both are NSAIDs - avoid combination. Risk of bleeding and cardiovascular issues.
+Omeprazole,Aspirin,mild,Omeprazole may reduce aspirin effectiveness for heart protection. Monitor therapy.
+Cetirizine,Diphenhydramine,moderate,Both are antihistamines. Combining may cause excessive drowsiness and sedation.
+Loratadine,Diphenhydramine,moderate,Increased sedation and anticholinergic effects. Avoid driving if combined.
+Paracetamol,Ibuprofen,mild,Generally safe combination for pain relief. Do not exceed recommended doses of each.
+Acetaminophen,Paracetamol,severe,SAME DRUG with different names. DO NOT COMBINE - risk of liver damage.
+Pseudoephedrine,Phenylephrine,moderate,Both are decongestants. Combining may cause high blood pressure and palpitations.
+Ibuprofen,Prednisone,high,NSAIDs with corticosteroids increase GI bleeding risk significantly. Medical supervision required.

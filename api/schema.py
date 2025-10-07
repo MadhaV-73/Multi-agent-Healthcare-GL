@@ -67,6 +67,34 @@ class PatientAnalysisRequest(BaseModel):
             raise ValueError('ZIP code must be at least 5 characters')
         return v.strip()
 
+class SimplePatientRequest(BaseModel):
+    """Simplified patient registration for quick X-ray analysis"""
+    name: str
+    birth_date: date
+    gender: str  # M, F, or U
+    city: str
+    zip_code: str
+    symptoms: Optional[str] = ""
+    allergies: Optional[str] = ""
+    
+    @validator('name')
+    def validate_name(cls, v):
+        if not v or len(v.strip()) < 2:
+            raise ValueError('Name must be at least 2 characters long')
+        return v.strip()
+    
+    @validator('gender')
+    def validate_gender(cls, v):
+        if v.upper() not in ['M', 'F', 'U']:
+            raise ValueError('Gender must be M, F, or U')
+        return v.upper()
+    
+    @validator('zip_code')
+    def validate_zip(cls, v):
+        if not v or len(v.strip()) < 5:
+            raise ValueError('ZIP code must be at least 5 characters')
+        return v.strip()
+
 class PatientAnalysisResponse(BaseModel):
     success: bool
     message: str
@@ -97,3 +125,22 @@ class FileUploadResponse(BaseModel):
     file_name: str
     file_size: int
     file_type: str
+
+class XRayAnalysisRequest(BaseModel):
+    """Request model for X-ray analysis (not used in multipart form)"""
+    patient_id: Optional[str] = None
+    symptoms: Optional[str] = None
+    spo2: Optional[int] = 98
+
+class XRayAnalysisResponse(BaseModel):
+    """Response model for X-ray analysis"""
+    success: bool
+    status: str  # SUCCESS, ESCALATED, EMERGENCY, FAILED
+    analysis_id: str
+    message: str
+
+class TherapyRecommendationResponse(BaseModel):
+    """Response model for therapy recommendations"""
+    success: bool
+    recommendations: dict
+    pharmacy_matches: Optional[List[dict]] = None

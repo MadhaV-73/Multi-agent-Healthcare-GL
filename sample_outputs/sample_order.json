@@ -1,0 +1,170 @@
+{
+  "status": "SUCCESS",
+  "status_level": "CAUTION",
+  "session_id": "SES202510071200000001",
+  "patient": {
+    "age": 45,
+    "gender": "M",
+    "allergies": ["penicillin"],
+    "city": "Mumbai",
+    "zip_code": "400001"
+  },
+  "assessment": {
+    "condition_probabilities": {
+      "normal": 0.12,
+      "pneumonia": 0.58,
+      "covid_suspect": 0.18,
+      "bronchitis": 0.10,
+      "tb_suspect": 0.02
+    },
+    "primary_condition": "pneumonia",
+    "severity": "moderate",
+    "confidence": 0.74,
+    "red_flags": []
+  },
+  "treatment": {
+    "otc_medicines": [
+      {
+        "sku": "OTC001",
+        "drug_name": "Paracetamol",
+        "dose": "500-650 mg",
+        "frequency": "Every 6-8 hours",
+        "duration": "3 days",
+        "warnings": ["Do not exceed 3 g per day"]
+      },
+      {
+        "sku": "OTC015",
+        "drug_name": "Phenylephrine",
+        "dose": "10 mg",
+        "frequency": "Twice daily",
+        "duration": "5 days",
+        "warnings": ["Avoid if history of hypertension"]
+      }
+    ],
+    "interaction_warnings": [],
+    "allergy_conflicts": [],
+    "safety_advice": [
+      "Maintain hydration and monitor temperature every 6 hours"
+    ]
+  },
+  "pharmacy": {
+    "pharmacy_id": "ph0008",
+    "pharmacy_name": "MedPlus Naroda",
+    "distance_km": 3.8,
+    "eta_min": 45,
+    "delivery_fee": 44.0,
+    "items": [
+      {
+        "sku": "OTC001",
+        "drug_name": "Paracetamol",
+        "form": "Tablet",
+        "strength": "650 mg",
+        "unit_price": 21.5,
+        "quantity_available": 36,
+        "recommended_quantity": 12,
+        "reserved_quantity": 12,
+        "line_total": 258.0,
+        "therapy_reference": {
+          "dose": "500-650 mg",
+          "frequency": "Every 6-8 hours",
+          "duration": "3 days",
+          "warnings": ["Do not exceed 3 g per day"]
+        }
+      },
+      {
+        "sku": "OTC015",
+        "drug_name": "Phenylephrine",
+        "form": "Tablet",
+        "strength": "10 mg",
+        "unit_price": 32.0,
+        "quantity_available": 22,
+        "recommended_quantity": 10,
+        "reserved_quantity": 10,
+        "line_total": 320.0,
+        "therapy_reference": {
+          "dose": "10 mg",
+          "frequency": "Twice daily",
+          "duration": "5 days",
+          "warnings": ["Avoid if history of hypertension"]
+        }
+      }
+    ],
+    "missing_items": [],
+    "subtotal": 578.0,
+    "total_price": 622.0,
+    "currency": "INR",
+    "availability": "in_stock",
+    "stock_percentage": 100.0,
+    "services": ["24x7", "Delivery"],
+    "estimated_delivery": "2025-10-07T13:10:00",
+    "delivery_note": "Delivery from MedPlus Naroda located 3.8 km away. Courier partner confirms doorstep delivery is available.",
+    "timestamp": "2025-10-07T12:25:18",
+    "status": "success",
+    "reservation_id": "RSV482913",
+    "reservation_expires_at": "2025-10-07T14:25:18",
+    "reserved_units": 22,
+    "location_context": {
+      "input": {
+        "pincode": "400001",
+        "zip_code": null,
+        "zipcode": null,
+        "postal_code": null,
+        "zip": null,
+        "fallback_used": false
+      },
+      "city": "Mumbai",
+      "pincode_used": "400001",
+      "fallback_to_default": false,
+      "default_coordinates_applied": false
+    }
+  },
+  "order": {
+    "order_id": "ORD48290311",
+    "status": "PENDING_CONFIRMATION",
+    "items": [
+      {
+        "sku": "OTC001",
+        "drug_name": "Paracetamol",
+        "reserved_quantity": 12,
+        "line_total": 258.0
+      },
+      {
+        "sku": "OTC015",
+        "drug_name": "Phenylephrine",
+        "reserved_quantity": 10,
+        "line_total": 320.0
+      }
+    ],
+    "pricing": {
+      "subtotal": 578.0,
+      "delivery_fee": 44.0,
+      "total": 622.0,
+      "currency": "INR"
+    },
+    "delivery": {
+      "pharmacy": "MedPlus Naroda",
+      "eta_minutes": 45,
+      "address": "To be provided",
+      "reservation_id": "RSV482913",
+      "reserved_units": 22,
+      "reservation_expires_at": "2025-10-07T14:25:18"
+    },
+    "note": "This is a MOCK order for demonstration purposes only"
+  },
+  "recommendations": [
+    "Rest, hydrate, and monitor SpO2 twice daily",
+    "Seek doctor consultation if fever persists beyond 72 hours"
+  ],
+  "disclaimers": [
+    "⚠️ EDUCATIONAL DEMONSTRATION ONLY - NOT MEDICAL ADVICE",
+    "Always consult qualified healthcare professionals"
+  ],
+  "timestamp": "2025-10-07T12:25:18",
+  "processing_summary": {
+    "ingestion": "completed",
+    "imaging": "completed",
+    "therapy": "completed",
+    "pharmacy": "completed",
+    "pharmacy_status": "success"
+  }
+}

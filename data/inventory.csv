@@ -1,0 +1,1501 @@
+pharmacy_id,sku,drug_name,form,strength,price,qty
+ph0003,OTC029,Ibuprofen,Lozenge,100ml,122.61,178
+ph0003,OTC008,Saline Nasal Spray,Lozenge,750mg,110.18,34
+ph0003,OTC005,Melatonin,Cream,1%,8.03,37
+ph0003,OTC001,Chlorpheniramine,Capsule,500mg,10.66,164
+ph0003,OTC007,Eye Drops,Capsule,65mg,141.26,182
+ph0003,OTC015,Phenylephrine,Cream,1%,57.53,200
+ph0003,OTC006,Dextromethorphan,Drops,10mg,51.0,89
+ph0003,OTC014,Cough Syrup,Syrup,24 count,115.61,74
+ph0003,OTC024,Electrolyte Solution,Drops,20mg,142.34,2
+ph0003,OTC011,Iron Supplement,Solution,1%,39.44,39
+ph0003,OTC017,Diphenhydramine,Tablet,100ml,80.29,30
+ph0003,OTC026,Omeprazole,Lozenge,200mg,28.94,197
+ph0003,OTC016,Guaifenesin,Tablet,20mg,52.07,199
+ph0003,OTC004,Throat Lozenges,Spray,20mg,110.57,77
+ph0003,OTC021,Antibiotic Ointment,Ointment,750mg,38.39,20
+ph0024,OTC001,Ibuprofen,Cream,250mg,87.28,55
+ph0024,OTC020,Phenylephrine,Lozenge,65mg,116.13,10
+ph0024,OTC018,Antibiotic Ointment,Syrup,20mg,100.76,40
+ph0024,OTC012,Iron Supplement,Lozenge,1%,47.09,178
+ph0024,OTC028,Hydrocortisone Cream,Solution,250mg,119.75,128
+ph0024,OTC003,Calcium Supplement,Drops,24 count,69.39,23
+ph0024,OTC008,Dextromethorphan,Lozenge,500mg,110.02,43
+ph0024,OTC004,Guaifenesin,Syrup,10mg,113.65,63
+ph0024,OTC030,Loratadine,Capsule,10mg,39.6,128
+ph0024,OTC021,Vitamin C,Capsule,20mg,105.55,148
+ph0024,OTC022,Cetirizine,Cream,1%,62.29,140
+ph0024,OTC026,Pseudoephedrine,Syrup,10mg,87.21,159
+ph0024,OTC029,Acetaminophen,Drops,65mg,121.01,174
+ph0024,OTC007,Zinc Supplement,Capsule,24 count,143.73,101
+ph0024,OTC005,Chlorpheniramine,Tablet,20mg,146.2,98
+ph0088,OTC006,Acetaminophen,Tablet,500mg,112.15,28
+ph0088,OTC013,Calcium Supplement,Drops,100ml,131.87,20
+ph0088,OTC027,Chlorpheniramine,Tablet,100ml,73.37,153
+ph0088,OTC014,Melatonin,Syrup,325mg,37.64,76
+ph0088,OTC026,Zinc Supplement,Syrup,100ml,24.79,89
+ph0088,OTC004,Vitamin C,Cream,500mg,75.66,24
+ph0088,OTC019,Paracetamol,Cream,1%,5.42,130
+ph0088,OTC002,Probiotic,Cream,20mg,55.52,145
+ph0088,OTC007,Antibiotic Ointment,Syrup,65mg,84.65,128
+ph0088,OTC016,Loratadine,Syrup,200mg,32.19,195
+ph0088,OTC005,Iron Supplement,Cream,65mg,13.26,107
+ph0088,OTC008,Phenylephrine,Capsule,200mg,58.38,161
+ph0088,OTC003,Ibuprofen,Lozenge,100ml,60.55,195
+ph0088,OTC018,Antacid Tablets,Drops,250mg,142.67,163
+ph0088,OTC023,Eye Drops,Capsule,65mg,64.68,62
+ph0023,OTC027,Magnesium Supplement,Spray,10mg,110.71,98
+ph0023,OTC003,Throat Lozenges,Cream,200mg,142.52,187
+ph0023,OTC029,Pseudoephedrine,Drops,100ml,107.3,87
+ph0023,OTC018,Probiotic,Syrup,65mg,100.63,112
+ph0023,OTC010,Saline Nasal Spray,Solution,30mg,54.73,125
+ph0023,OTC024,Cough Syrup,Solution,15g,20.48,140
+ph0023,OTC016,Naproxen,Cream,15g,20.26,180
+ph0023,OTC025,Eye Drops,Lozenge,250mg,118.84,152
+ph0023,OTC013,Chlorpheniramine,Lozenge,1%,80.88,87
+ph0023,OTC020,Omeprazole,Ointment,30mg,133.8,103
+ph0023,OTC004,Paracetamol,Drops,20mg,120.61,81
+ph0023,OTC028,Melatonin,Tablet,20mg,149.84,149
+ph0023,OTC017,Diphenhydramine,Solution,200mg,74.92,23
+ph0023,OTC009,Dextromethorphan,Capsule,30mg,76.23,165
+ph0023,OTC006,Zinc Supplement,Solution,15g,60.94,153
+ph0061,OTC026,Aspirin,Lozenge,325mg,106.29,70
+ph0061,OTC018,Dextromethorphan,Spray,250mg,130.48,119
+ph0061,OTC010,Cough Syrup,Cream,10mg,72.08,170
+ph0061,OTC001,Diphenhydramine,Capsule,15g,28.0,125
+ph0061,OTC004,Omeprazole,Tablet,65mg,21.65,151
+ph0061,OTC007,Paracetamol,Syrup,1%,97.11,129
+ph0061,OTC005,Naproxen,Capsule,200mg,13.84,40
+ph0061,OTC023,Calcium Supplement,Solution,100ml,19.58,122
+ph0061,OTC012,Ibuprofen,Cream,100ml,107.15,88
+ph0061,OTC029,Zinc Supplement,Drops,20mg,38.68,128
+ph0061,OTC009,Chlorpheniramine,Solution,750mg,97.24,161
+ph0061,OTC025,Phenylephrine,Spray,500mg,51.16,108
+ph0061,OTC008,Eye Drops,Drops,325mg,126.8,124
+ph0061,OTC028,Melatonin,Spray,24 count,28.34,194
+ph0061,OTC020,Pseudoephedrine,Capsule,250mg,93.37,188
+ph0077,OTC020,Loratadine,Ointment,200mg,49.34,182
+ph0077,OTC028,Calcium Supplement,Syrup,750mg,106.88,153
+ph0077,OTC021,Paracetamol,Drops,10mg,112.17,79
+ph0077,OTC026,Phenylephrine,Ointment,325mg,46.34,173
+ph0077,OTC009,Naproxen,Solution,15g,139.81,3
+ph0077,OTC023,Throat Lozenges,Capsule,750mg,71.1,159
+ph0077,OTC019,Omeprazole,Lozenge,24 count,44.48,182
+ph0077,OTC025,Zinc Supplement,Tablet,1%,28.65,15
+ph0077,OTC006,Cetirizine,Syrup,1%,145.98,142
+ph0077,OTC024,Antacid Tablets,Tablet,750mg,19.95,153
+ph0077,OTC010,Cough Syrup,Lozenge,20mg,73.53,136
+ph0077,OTC013,Eye Drops,Capsule,10mg,95.99,161
+ph0077,OTC027,Antibiotic Ointment,Capsule,24 count,89.35,53
+ph0077,OTC007,Chlorpheniramine,Lozenge,500mg,21.66,74
+ph0077,OTC030,Ibuprofen,Lozenge,100ml,73.86,158
+ph0085,OTC009,Zinc Supplement,Lozenge,30mg,8.05,44
+ph0085,OTC002,Diphenhydramine,Drops,200mg,131.45,82
+ph0085,OTC030,Phenylephrine,Ointment,325mg,47.46,167
+ph0085,OTC012,Omeprazole,Solution,750mg,52.45,13
+ph0085,OTC001,Antacid Tablets,Syrup,10mg,137.22,14
+ph0085,OTC024,Cetirizine,Solution,1%,58.85,194
+ph0085,OTC006,Calcium Supplement,Cream,100ml,38.07,34
+ph0085,OTC016,Dextromethorphan,Cream,24 count,102.98,181
+ph0085,OTC020,Loratadine,Tablet,65mg,120.47,112
+ph0085,OTC005,Eye Drops,Capsule,500mg,95.88,48
+ph0085,OTC014,Saline Nasal Spray,Syrup,250mg,124.04,29
+ph0085,OTC011,Electrolyte Solution,Drops,325mg,7.04,17
+ph0085,OTC019,Antibiotic Ointment,Cream,30mg,93.82,158
+ph0085,OTC004,Guaifenesin,Drops,325mg,26.03,31
+ph0085,OTC008,Acetaminophen,Tablet,250mg,90.9,184
+ph0062,OTC022,Vitamin C,Ointment,30mg,8.15,175
+ph0062,OTC020,Antacid Tablets,Spray,250mg,135.48,46
+ph0062,OTC013,Omeprazole,Syrup,65mg,5.76,36
+ph0062,OTC007,Cetirizine,Lozenge,15g,110.6,90
+ph0062,OTC027,Loratadine,Spray,100ml,73.59,45
+ph0062,OTC021,Phenylephrine,Lozenge,20mg,15.85,148
+ph0062,OTC005,Pseudoephedrine,Tablet,200mg,95.11,121
+ph0062,OTC016,Naproxen,Syrup,1%,35.35,144
+ph0062,OTC010,Melatonin,Capsule,10mg,141.72,182
+ph0062,OTC017,Guaifenesin,Syrup,1%,119.21,32
+ph0062,OTC004,Diphenhydramine,Spray,24 count,97.45,21
+ph0062,OTC015,Dextromethorphan,Drops,500mg,98.74,88
+ph0062,OTC003,Chlorpheniramine,Syrup,250mg,105.55,173
+ph0062,OTC002,Acetaminophen,Capsule,100ml,45.84,106
+ph0062,OTC025,Aspirin,Tablet,65mg,148.1,109
+ph0032,OTC013,Melatonin,Solution,100ml,40.75,111
+ph0032,OTC024,Iron Supplement,Solution,65mg,78.39,42
+ph0032,OTC014,Antibiotic Ointment,Tablet,30mg,109.45,29
+ph0032,OTC029,Acetaminophen,Cream,15g,129.0,67
+ph0032,OTC020,Cetirizine,Syrup,200mg,126.87,112
+ph0032,OTC004,Probiotic,Syrup,325mg,140.1,12
+ph0032,OTC023,Cough Syrup,Spray,20mg,145.6,43
+ph0032,OTC016,Omeprazole,Lozenge,15g,90.61,49
+ph0032,OTC002,Hydrocortisone Cream,Cream,65mg,111.09,19
+ph0032,OTC006,Paracetamol,Drops,20mg,125.39,153
+ph0032,OTC022,Dextromethorphan,Solution,10mg,86.43,31
+ph0032,OTC001,Calcium Supplement,Capsule,65mg,83.47,110
+ph0032,OTC025,Guaifenesin,Ointment,30mg,53.6,117
+ph0032,OTC018,Zinc Supplement,Drops,750mg,85.1,86
+ph0032,OTC008,Antacid Tablets,Syrup,15g,11.33,121
+ph0046,OTC029,Pseudoephedrine,Ointment,500mg,82.97,74
+ph0046,OTC028,Cough Syrup,Solution,100ml,34.58,60
+ph0046,OTC007,Chlorpheniramine,Ointment,15g,8.84,44
+ph0046,OTC027,Acetaminophen,Solution,250mg,32.3,38
+ph0046,OTC016,Multivitamin,Syrup,250mg,108.23,198
+ph0046,OTC021,Cetirizine,Spray,325mg,30.26,125
+ph0046,OTC020,Calcium Supplement,Cream,15g,33.88,161
+ph0046,OTC023,Zinc Supplement,Solution,20mg,128.34,25
+ph0046,OTC014,Melatonin,Ointment,1%,75.13,169
+ph0046,OTC008,Omeprazole,Cream,325mg,16.04,85
+ph0046,OTC001,Throat Lozenges,Lozenge,65mg,14.91,123
+ph0046,OTC010,Antacid Tablets,Syrup,24 count,127.6,184
+ph0046,OTC030,Phenylephrine,Spray,750mg,33.73,131
+ph0046,OTC022,Vitamin C,Tablet,325mg,147.19,37
+ph0046,OTC025,Loratadine,Cream,100ml,33.14,127
+ph0093,OTC024,Cough Syrup,Capsule,30mg,79.77,86
+ph0093,OTC004,Calcium Supplement,Capsule,200mg,139.56,195
+ph0093,OTC026,Antibiotic Ointment,Drops,20mg,78.44,198
+ph0093,OTC012,Pseudoephedrine,Syrup,30mg,138.55,112
+ph0093,OTC014,Acetaminophen,Drops,20mg,82.9,58
+ph0093,OTC010,Vitamin C,Lozenge,30mg,103.29,43
+ph0093,OTC029,Throat Lozenges,Tablet,325mg,6.7,30
+ph0093,OTC022,Omeprazole,Cream,100ml,108.43,81
+ph0093,OTC015,Paracetamol,Syrup,24 count,109.92,14
+ph0093,OTC030,Guaifenesin,Drops,65mg,34.15,46
+ph0093,OTC003,Iron Supplement,Tablet,250mg,34.0,161
+ph0093,OTC008,Dextromethorphan,Lozenge,24 count,119.42,74
+ph0093,OTC027,Zinc Supplement,Spray,65mg,99.68,136
+ph0093,OTC009,Phenylephrine,Ointment,100ml,139.45,144
+ph0093,OTC011,Diphenhydramine,Tablet,65mg,53.42,125
+ph0069,OTC010,Paracetamol,Solution,20mg,82.54,24
+ph0069,OTC021,Antacid Tablets,Capsule,30mg,50.4,155
+ph0069,OTC014,Electrolyte Solution,Tablet,325mg,146.64,35
+ph0069,OTC027,Chlorpheniramine,Lozenge,15g,49.82,92
+ph0069,OTC009,Calcium Supplement,Lozenge,250mg,109.16,83
+ph0069,OTC029,Acetaminophen,Solution,500mg,76.42,162
+ph0069,OTC005,Dextromethorphan,Drops,325mg,36.67,82
+ph0069,OTC023,Cough Syrup,Capsule,15g,52.09,58
+ph0069,OTC006,Multivitamin,Tablet,750mg,55.64,15
+ph0069,OTC018,Pseudoephedrine,Tablet,15g,9.55,115
+ph0069,OTC011,Zinc Supplement,Capsule,1%,86.93,155
+ph0069,OTC025,Hydrocortisone Cream,Drops,100ml,103.83,51
+ph0069,OTC019,Phenylephrine,Cream,325mg,110.76,21
+ph0069,OTC002,Throat Lozenges,Ointment,250mg,93.42,37
+ph0069,OTC013,Diphenhydramine,Tablet,1%,92.17,14
+ph0054,OTC011,Multivitamin,Drops,200mg,20.35,159
+ph0054,OTC030,Electrolyte Solution,Syrup,1%,127.29,84
+ph0054,OTC016,Saline Nasal Spray,Cream,10mg,7.82,174
+ph0054,OTC024,Guaifenesin,Solution,100ml,16.87,190
+ph0054,OTC026,Eye Drops,Tablet,10mg,124.83,130
+ph0054,OTC019,Acetaminophen,Ointment,10mg,28.6,15
+ph0054,OTC009,Magnesium Supplement,Solution,24 count,16.46,142
+ph0054,OTC001,Throat Lozenges,Syrup,500mg,66.37,111
+ph0054,OTC028,Probiotic,Capsule,325mg,66.47,98
+ph0054,OTC021,Pseudoephedrine,Spray,65mg,90.59,43
+ph0054,OTC003,Chlorpheniramine,Lozenge,750mg,90.88,148
+ph0054,OTC018,Aspirin,Tablet,24 count,32.14,166
+ph0054,OTC004,Antacid Tablets,Capsule,10mg,11.6,97
+ph0054,OTC029,Dextromethorphan,Capsule,30mg,121.64,83
+ph0054,OTC017,Phenylephrine,Capsule,100ml,102.96,163
+ph0009,OTC008,Omeprazole,Cream,325mg,91.37,101
+ph0009,OTC001,Calcium Supplement,Syrup,10mg,82.29,14
+ph0009,OTC028,Electrolyte Solution,Drops,250mg,95.62,159
+ph0009,OTC016,Dextromethorphan,Lozenge,65mg,128.49,136
+ph0009,OTC005,Melatonin,Capsule,100ml,40.13,168
+ph0009,OTC004,Phenylephrine,Drops,24 count,45.72,111
+ph0009,OTC009,Diphenhydramine,Spray,65mg,132.15,12
+ph0009,OTC014,Cough Syrup,Solution,20mg,56.74,69
+ph0009,OTC010,Antibiotic Ointment,Tablet,200mg,76.25,93
+ph0009,OTC011,Chlorpheniramine,Capsule,250mg,144.34,131
+ph0009,OTC003,Throat Lozenges,Solution,200mg,39.41,170
+ph0009,OTC018,Pseudoephedrine,Drops,30mg,24.95,187
+ph0009,OTC012,Paracetamol,Ointment,750mg,73.5,134
+ph0009,OTC013,Cetirizine,Drops,65mg,92.87,65
+ph0009,OTC024,Aspirin,Cream,500mg,58.59,131
+ph0033,OTC019,Pseudoephedrine,Solution,750mg,76.14,26
+ph0033,OTC027,Cetirizine,Solution,30mg,64.58,53
+ph0033,OTC028,Diphenhydramine,Spray,65mg,97.3,117
+ph0033,OTC017,Calcium Supplement,Cream,750mg,141.56,20
+ph0033,OTC021,Iron Supplement,Syrup,200mg,106.29,76
+ph0033,OTC013,Saline Nasal Spray,Tablet,100ml,52.02,36
+ph0033,OTC026,Guaifenesin,Spray,750mg,56.0,183
+ph0033,OTC024,Throat Lozenges,Lozenge,250mg,45.84,10
+ph0033,OTC016,Phenylephrine,Cream,500mg,126.94,122
+ph0033,OTC022,Zinc Supplement,Syrup,200mg,94.23,90
+ph0033,OTC018,Melatonin,Ointment,1%,96.72,0
+ph0033,OTC012,Dextromethorphan,Capsule,250mg,7.13,167
+ph0033,OTC005,Aspirin,Lozenge,65mg,30.64,172
+ph0033,OTC030,Omeprazole,Lozenge,20mg,109.06,154
+ph0033,OTC009,Antacid Tablets,Syrup,15g,110.56,81
+ph0025,OTC016,Zinc Supplement,Ointment,24 count,26.88,50
+ph0025,OTC029,Antacid Tablets,Drops,65mg,95.33,77
+ph0025,OTC012,Throat Lozenges,Solution,100ml,137.77,131
+ph0025,OTC023,Naproxen,Capsule,750mg,77.09,114
+ph0025,OTC009,Multivitamin,Tablet,10mg,59.04,171
+ph0025,OTC010,Guaifenesin,Lozenge,20mg,74.9,178
+ph0025,OTC004,Hydrocortisone Cream,Drops,15g,111.59,78
+ph0025,OTC022,Cetirizine,Spray,200mg,143.75,145
+ph0025,OTC027,Paracetamol,Syrup,200mg,31.62,76
+ph0025,OTC008,Phenylephrine,Capsule,65mg,103.9,22
+ph0025,OTC020,Ibuprofen,Lozenge,250mg,23.45,111
+ph0025,OTC003,Pseudoephedrine,Drops,200mg,73.86,131
+ph0025,OTC002,Aspirin,Ointment,30mg,105.96,90
+ph0025,OTC014,Iron Supplement,Drops,325mg,91.07,87
+ph0025,OTC018,Acetaminophen,Ointment,250mg,111.58,135
+ph0047,OTC021,Chlorpheniramine,Syrup,200mg,85.51,161
+ph0047,OTC017,Loratadine,Lozenge,200mg,69.98,0
+ph0047,OTC029,Aspirin,Drops,500mg,5.9,27
+ph0047,OTC009,Eye Drops,Cream,200mg,51.54,129
+ph0047,OTC013,Throat Lozenges,Syrup,500mg,146.0,76
+ph0047,OTC024,Iron Supplement,Ointment,30mg,139.18,136
+ph0047,OTC014,Antibiotic Ointment,Tablet,10mg,43.86,69
+ph0047,OTC010,Pseudoephedrine,Spray,750mg,98.68,102
+ph0047,OTC025,Cough Syrup,Drops,1%,115.45,67
+ph0047,OTC003,Vitamin C,Drops,250mg,78.49,129
+ph0047,OTC022,Magnesium Supplement,Capsule,750mg,92.68,91
+ph0047,OTC005,Phenylephrine,Cream,30mg,33.17,84
+ph0047,OTC001,Paracetamol,Ointment,500mg,60.3,15
+ph0047,OTC006,Cetirizine,Lozenge,24 count,81.9,127
+ph0047,OTC007,Diphenhydramine,Capsule,65mg,114.76,65
+ph0011,OTC017,Calcium Supplement,Syrup,200mg,79.68,193
+ph0011,OTC007,Dextromethorphan,Solution,20mg,113.48,44
+ph0011,OTC021,Melatonin,Cream,30mg,131.67,54
+ph0011,OTC027,Zinc Supplement,Syrup,20mg,118.43,155
+ph0011,OTC012,Magnesium Supplement,Cream,250mg,68.38,5
+ph0011,OTC001,Multivitamin,Capsule,750mg,37.39,30
+ph0011,OTC003,Pseudoephedrine,Spray,20mg,148.4,155
+ph0011,OTC008,Paracetamol,Lozenge,100ml,52.82,74
+ph0011,OTC030,Acetaminophen,Ointment,250mg,136.18,122
+ph0011,OTC005,Hydrocortisone Cream,Lozenge,10mg,5.0,126
+ph0011,OTC010,Antacid Tablets,Ointment,100ml,108.93,106
+ph0011,OTC011,Naproxen,Tablet,30mg,63.91,13
+ph0011,OTC006,Throat Lozenges,Ointment,20mg,10.07,108
+ph0011,OTC004,Eye Drops,Cream,500mg,90.21,190
+ph0011,OTC014,Saline Nasal Spray,Ointment,65mg,126.12,142
+ph0058,OTC026,Multivitamin,Solution,200mg,142.65,163
+ph0058,OTC012,Paracetamol,Ointment,24 count,34.13,96
+ph0058,OTC030,Diphenhydramine,Ointment,20mg,8.18,39
+ph0058,OTC023,Zinc Supplement,Cream,20mg,6.79,137
+ph0058,OTC029,Ibuprofen,Ointment,200mg,87.1,13
+ph0058,OTC018,Loratadine,Syrup,1%,96.06,155
+ph0058,OTC017,Electrolyte Solution,Spray,30mg,108.01,62
+ph0058,OTC019,Calcium Supplement,Solution,500mg,144.46,36
+ph0058,OTC022,Chlorpheniramine,Syrup,250mg,94.1,130
+ph0058,OTC013,Iron Supplement,Tablet,20mg,103.58,164
+ph0058,OTC025,Omeprazole,Cream,10mg,72.68,186
+ph0058,OTC028,Antibiotic Ointment,Spray,250mg,137.21,18
+ph0058,OTC020,Hydrocortisone Cream,Lozenge,750mg,142.88,196
+ph0058,OTC003,Phenylephrine,Spray,200mg,88.98,175
+ph0058,OTC027,Magnesium Supplement,Syrup,20mg,21.97,182
+ph0067,OTC024,Ibuprofen,Spray,100ml,125.38,32
+ph0067,OTC021,Cetirizine,Solution,325mg,129.53,121
+ph0067,OTC020,Magnesium Supplement,Syrup,10mg,145.48,116
+ph0067,OTC013,Acetaminophen,Syrup,100ml,110.01,198
+ph0067,OTC010,Saline Nasal Spray,Capsule,500mg,39.37,100
+ph0067,OTC002,Paracetamol,Spray,200mg,132.41,130
+ph0067,OTC017,Throat Lozenges,Spray,24 count,78.53,88
+ph0067,OTC029,Iron Supplement,Spray,10mg,118.83,53
+ph0067,OTC014,Guaifenesin,Capsule,15g,144.81,185
+ph0067,OTC030,Omeprazole,Spray,20mg,139.73,142
+ph0067,OTC023,Phenylephrine,Drops,500mg,97.26,57
+ph0067,OTC015,Cough Syrup,Drops,10mg,79.85,73
+ph0067,OTC022,Diphenhydramine,Lozenge,200mg,92.65,6
+ph0067,OTC028,Melatonin,Spray,200mg,84.31,103
+ph0067,OTC006,Electrolyte Solution,Spray,750mg,26.63,94
+ph0020,OTC007,Pseudoephedrine,Tablet,500mg,141.5,43
+ph0020,OTC029,Electrolyte Solution,Syrup,15g,25.84,84
+ph0020,OTC008,Paracetamol,Ointment,750mg,148.69,168
+ph0020,OTC014,Phenylephrine,Capsule,1%,29.61,76
+ph0020,OTC005,Aspirin,Capsule,65mg,144.29,154
+ph0020,OTC003,Magnesium Supplement,Solution,65mg,33.19,152
+ph0020,OTC011,Saline Nasal Spray,Tablet,100ml,110.06,110
+ph0020,OTC024,Chlorpheniramine,Tablet,24 count,94.56,113
+ph0020,OTC025,Loratadine,Tablet,100ml,53.14,154
+ph0020,OTC001,Ibuprofen,Ointment,1%,117.15,158
+ph0020,OTC027,Iron Supplement,Cream,750mg,130.41,110
+ph0020,OTC015,Acetaminophen,Syrup,1%,61.95,151
+ph0020,OTC019,Zinc Supplement,Ointment,1%,58.83,161
+ph0020,OTC018,Melatonin,Syrup,325mg,55.45,192
+ph0020,OTC010,Omeprazole,Cream,500mg,57.57,118
+ph0021,OTC013,Hydrocortisone Cream,Drops,100ml,147.53,24
+ph0021,OTC027,Phenylephrine,Lozenge,24 count,83.28,112
+ph0021,OTC018,Antibiotic Ointment,Syrup,20mg,21.28,91
+ph0021,OTC025,Eye Drops,Capsule,20mg,109.77,0
+ph0021,OTC006,Pseudoephedrine,Drops,65mg,66.92,100
+ph0021,OTC016,Dextromethorphan,Cream,1%,102.87,169
+ph0021,OTC005,Saline Nasal Spray,Syrup,100ml,32.18,153
+ph0021,OTC021,Cough Syrup,Capsule,200mg,143.48,99
+ph0021,OTC008,Chlorpheniramine,Tablet,10mg,118.03,192
+ph0021,OTC011,Antacid Tablets,Solution,30mg,9.64,68
+ph0021,OTC007,Loratadine,Cream,250mg,99.88,50
+ph0021,OTC003,Magnesium Supplement,Solution,20mg,61.34,129
+ph0021,OTC004,Zinc Supplement,Syrup,200mg,86.89,57
+ph0021,OTC010,Diphenhydramine,Cream,15g,110.3,70
+ph0021,OTC014,Melatonin,Ointment,325mg,116.39,75
+ph0022,OTC007,Antacid Tablets,Drops,250mg,24.86,50
+ph0022,OTC021,Aspirin,Drops,24 count,17.24,157
+ph0022,OTC011,Calcium Supplement,Cream,200mg,59.45,89
+ph0022,OTC013,Vitamin C,Tablet,1%,87.06,165
+ph0022,OTC006,Guaifenesin,Lozenge,24 count,92.53,119
+ph0022,OTC003,Throat Lozenges,Tablet,200mg,28.66,173
+ph0022,OTC001,Dextromethorphan,Solution,20mg,69.65,16
+ph0022,OTC017,Pseudoephedrine,Solution,325mg,111.04,134
+ph0022,OTC022,Hydrocortisone Cream,Tablet,100ml,145.39,135
+ph0022,OTC015,Loratadine,Lozenge,500mg,80.4,138
+ph0022,OTC004,Paracetamol,Tablet,750mg,41.17,69
+ph0022,OTC029,Antibiotic Ointment,Lozenge,24 count,81.82,132
+ph0022,OTC016,Eye Drops,Capsule,500mg,61.11,190
+ph0022,OTC024,Phenylephrine,Solution,24 count,129.3,106
+ph0022,OTC023,Diphenhydramine,Tablet,100ml,73.51,62
+ph0041,OTC014,Paracetamol,Capsule,15g,96.17,48
+ph0041,OTC020,Electrolyte Solution,Tablet,200mg,39.54,26
+ph0041,OTC012,Dextromethorphan,Drops,20mg,147.13,104
+ph0041,OTC011,Cetirizine,Cream,100ml,127.6,78
+ph0041,OTC018,Ibuprofen,Spray,250mg,47.24,187
+ph0041,OTC007,Pseudoephedrine,Drops,30mg,99.62,133
+ph0041,OTC009,Antacid Tablets,Cream,10mg,54.84,8
+ph0041,OTC016,Vitamin C,Cream,15g,27.28,66
+ph0041,OTC006,Cough Syrup,Lozenge,15g,86.62,47
+ph0041,OTC021,Phenylephrine,Tablet,500mg,40.15,19
+ph0041,OTC022,Chlorpheniramine,Solution,10mg,49.15,19
+ph0041,OTC008,Guaifenesin,Lozenge,500mg,11.78,136
+ph0041,OTC010,Loratadine,Ointment,15g,88.62,143
+ph0041,OTC017,Hydrocortisone Cream,Tablet,200mg,81.27,22
+ph0041,OTC024,Acetaminophen,Ointment,500mg,101.96,26
+ph0027,OTC022,Loratadine,Ointment,20mg,11.56,176
+ph0027,OTC016,Saline Nasal Spray,Ointment,24 count,8.95,32
+ph0027,OTC005,Pseudoephedrine,Syrup,100ml,77.02,161
+ph0027,OTC018,Paracetamol,Tablet,500mg,72.02,15
+ph0027,OTC011,Calcium Supplement,Solution,15g,125.17,97
+ph0027,OTC023,Throat Lozenges,Spray,1%,147.28,32
+ph0027,OTC014,Antacid Tablets,Ointment,750mg,47.19,5
+ph0027,OTC030,Diphenhydramine,Ointment,65mg,77.58,83
+ph0027,OTC028,Magnesium Supplement,Syrup,1%,122.98,184
+ph0027,OTC025,Dextromethorphan,Solution,750mg,58.78,111
+ph0027,OTC017,Iron Supplement,Solution,750mg,129.11,53
+ph0027,OTC026,Acetaminophen,Syrup,750mg,118.95,33
+ph0027,OTC029,Phenylephrine,Capsule,325mg,71.43,191
+ph0027,OTC021,Cetirizine,Tablet,65mg,122.53,65
+ph0027,OTC015,Antibiotic Ointment,Tablet,10mg,110.37,93
+ph0048,OTC030,Aspirin,Spray,750mg,96.13,51
+ph0048,OTC011,Cetirizine,Capsule,500mg,11.96,74
+ph0048,OTC027,Diphenhydramine,Lozenge,65mg,146.35,139
+ph0048,OTC022,Iron Supplement,Lozenge,325mg,45.17,70
+ph0048,OTC010,Zinc Supplement,Drops,750mg,123.9,163
+ph0048,OTC020,Throat Lozenges,Lozenge,1%,123.32,130
+ph0048,OTC025,Acetaminophen,Ointment,750mg,138.54,20
+ph0048,OTC012,Melatonin,Ointment,250mg,60.82,172
+ph0048,OTC004,Pseudoephedrine,Spray,200mg,96.82,16
+ph0048,OTC024,Guaifenesin,Cream,500mg,105.08,82
+ph0048,OTC028,Saline Nasal Spray,Syrup,200mg,68.78,44
+ph0048,OTC002,Dextromethorphan,Solution,500mg,92.6,14
+ph0048,OTC001,Vitamin C,Solution,250mg,82.69,119
+ph0048,OTC029,Cough Syrup,Lozenge,1%,46.66,165
+ph0048,OTC018,Probiotic,Drops,15g,141.07,75
+ph0030,OTC010,Calcium Supplement,Tablet,24 count,13.25,153
+ph0030,OTC023,Vitamin C,Spray,250mg,5.51,154
+ph0030,OTC021,Melatonin,Capsule,200mg,84.33,130
+ph0030,OTC018,Eye Drops,Lozenge,325mg,128.83,84
+ph0030,OTC005,Naproxen,Spray,200mg,40.14,3
+ph0030,OTC016,Magnesium Supplement,Cream,65mg,124.94,111
+ph0030,OTC011,Antibiotic Ointment,Solution,500mg,29.02,155
+ph0030,OTC003,Electrolyte Solution,Tablet,30mg,64.26,195
+ph0030,OTC014,Saline Nasal Spray,Drops,65mg,27.34,179
+ph0030,OTC029,Loratadine,Tablet,10mg,123.62,76
+ph0030,OTC019,Hydrocortisone Cream,Capsule,200mg,143.26,138
+ph0030,OTC026,Pseudoephedrine,Cream,24 count,22.8,67
+ph0030,OTC015,Omeprazole,Solution,24 count,74.11,158
+ph0030,OTC013,Acetaminophen,Solution,30mg,13.71,1
+ph0030,OTC007,Guaifenesin,Tablet,325mg,105.24,137
+ph0055,OTC011,Melatonin,Capsule,65mg,42.31,121
+ph0055,OTC002,Zinc Supplement,Syrup,750mg,9.58,133
+ph0055,OTC024,Acetaminophen,Spray,750mg,19.66,10
+ph0055,OTC015,Saline Nasal Spray,Ointment,30mg,53.99,92
+ph0055,OTC012,Guaifenesin,Spray,10mg,50.5,150
+ph0055,OTC008,Cetirizine,Lozenge,500mg,36.54,4
+ph0055,OTC030,Diphenhydramine,Syrup,15g,62.1,47
+ph0055,OTC007,Iron Supplement,Capsule,500mg,119.88,192
+ph0055,OTC005,Hydrocortisone Cream,Spray,20mg,148.01,154
+ph0055,OTC001,Multivitamin,Cream,250mg,39.03,181
+ph0055,OTC026,Pseudoephedrine,Solution,20mg,145.02,155
+ph0055,OTC022,Antibiotic Ointment,Ointment,500mg,89.19,78
+ph0055,OTC016,Magnesium Supplement,Drops,20mg,126.69,45
+ph0055,OTC029,Vitamin C,Syrup,200mg,58.17,160
+ph0055,OTC013,Chlorpheniramine,Ointment,500mg,91.42,110
+ph0080,OTC015,Acetaminophen,Syrup,15g,137.68,1
+ph0080,OTC024,Electrolyte Solution,Capsule,20mg,135.99,160
+ph0080,OTC012,Ibuprofen,Syrup,30mg,19.78,61
+ph0080,OTC010,Paracetamol,Drops,65mg,145.77,170
+ph0080,OTC002,Aspirin,Cream,250mg,97.84,186
+ph0080,OTC028,Magnesium Supplement,Ointment,500mg,67.83,159
+ph0080,OTC013,Omeprazole,Cream,65mg,73.49,64
+ph0080,OTC007,Melatonin,Cream,250mg,51.17,161
+ph0080,OTC005,Phenylephrine,Capsule,325mg,135.97,96
+ph0080,OTC020,Throat Lozenges,Solution,325mg,14.44,178
+ph0080,OTC009,Loratadine,Cream,500mg,11.44,194
+ph0080,OTC021,Cough Syrup,Syrup,20mg,147.97,168
+ph0080,OTC019,Hydrocortisone Cream,Spray,24 count,35.22,179
+ph0080,OTC001,Antibiotic Ointment,Capsule,200mg,18.38,89
+ph0080,OTC018,Iron Supplement,Capsule,15g,69.0,135
+ph0026,OTC028,Throat Lozenges,Lozenge,24 count,38.1,197
+ph0026,OTC001,Antacid Tablets,Spray,65mg,53.64,89
+ph0026,OTC007,Pseudoephedrine,Ointment,200mg,138.71,62
+ph0026,OTC019,Eye Drops,Lozenge,200mg,42.32,16
+ph0026,OTC006,Ibuprofen,Capsule,65mg,108.73,181
+ph0026,OTC013,Melatonin,Ointment,15g,62.1,94
+ph0026,OTC018,Loratadine,Tablet,500mg,98.38,96
+ph0026,OTC012,Probiotic,Drops,1%,38.19,13
+ph0026,OTC022,Omeprazole,Tablet,24 count,49.57,158
+ph0026,OTC015,Naproxen,Capsule,325mg,36.75,83
+ph0026,OTC014,Chlorpheniramine,Drops,24 count,99.52,112
+ph0026,OTC017,Aspirin,Capsule,750mg,67.78,34
+ph0026,OTC025,Cetirizine,Tablet,250mg,128.37,17
+ph0026,OTC020,Phenylephrine,Cream,500mg,58.92,190
+ph0026,OTC016,Magnesium Supplement,Syrup,20mg,107.64,154
+ph0028,OTC030,Multivitamin,Capsule,200mg,20.79,93
+ph0028,OTC022,Calcium Supplement,Spray,750mg,118.08,37
+ph0028,OTC007,Hydrocortisone Cream,Tablet,100ml,14.99,151
+ph0028,OTC021,Antacid Tablets,Solution,20mg,144.54,3
+ph0028,OTC016,Vitamin C,Cream,1%,144.69,11
+ph0028,OTC015,Guaifenesin,Cream,500mg,65.72,160
+ph0028,OTC023,Dextromethorphan,Tablet,325mg,59.3,128
+ph0028,OTC001,Probiotic,Spray,65mg,81.52,106
+ph0028,OTC017,Ibuprofen,Cream,30mg,95.73,195
+ph0028,OTC009,Zinc Supplement,Tablet,100ml,128.87,68
+ph0028,OTC003,Pseudoephedrine,Tablet,200mg,77.0,3
+ph0028,OTC026,Throat Lozenges,Tablet,200mg,83.6,88
+ph0028,OTC010,Saline Nasal Spray,Lozenge,24 count,60.05,96
+ph0028,OTC012,Cetirizine,Solution,325mg,12.67,180
+ph0028,OTC020,Iron Supplement,Lozenge,100ml,23.1,173
+ph0002,OTC004,Naproxen,Solution,325mg,148.36,108
+ph0002,OTC029,Probiotic,Capsule,750mg,49.14,73
+ph0002,OTC008,Throat Lozenges,Lozenge,30mg,119.78,82
+ph0002,OTC023,Ibuprofen,Syrup,200mg,145.6,38
+ph0002,OTC024,Loratadine,Solution,65mg,104.3,186
+ph0002,OTC006,Pseudoephedrine,Ointment,1%,122.74,130
+ph0002,OTC019,Magnesium Supplement,Solution,325mg,139.92,97
+ph0002,OTC015,Antacid Tablets,Spray,30mg,30.6,199
+ph0002,OTC020,Phenylephrine,Lozenge,1%,65.74,108
+ph0002,OTC010,Electrolyte Solution,Drops,500mg,145.34,141
+ph0002,OTC011,Antibiotic Ointment,Cream,200mg,114.74,193
+ph0002,OTC021,Chlorpheniramine,Ointment,20mg,42.57,4
+ph0002,OTC003,Saline Nasal Spray,Spray,100ml,110.22,49
+ph0002,OTC007,Omeprazole,Drops,1%,50.48,91
+ph0002,OTC026,Cough Syrup,Ointment,15g,10.97,143
+ph0083,OTC015,Iron Supplement,Syrup,325mg,143.91,45
+ph0083,OTC003,Probiotic,Syrup,250mg,104.71,47
+ph0083,OTC019,Magnesium Supplement,Solution,325mg,125.84,197
+ph0083,OTC017,Cough Syrup,Ointment,500mg,120.34,14
+ph0083,OTC018,Acetaminophen,Syrup,325mg,70.51,119
+ph0083,OTC008,Multivitamin,Ointment,100ml,31.14,108
+ph0083,OTC002,Cetirizine,Solution,20mg,140.64,93
+ph0083,OTC005,Eye Drops,Lozenge,24 count,33.39,64
+ph0083,OTC012,Loratadine,Cream,750mg,110.13,86
+ph0083,OTC007,Naproxen,Ointment,30mg,95.79,134
+ph0083,OTC004,Dextromethorphan,Spray,100ml,131.16,10
+ph0083,OTC025,Phenylephrine,Solution,20mg,93.6,149
+ph0083,OTC020,Aspirin,Capsule,15g,17.3,66
+ph0083,OTC010,Antacid Tablets,Capsule,20mg,103.69,82
+ph0083,OTC014,Saline Nasal Spray,Drops,10mg,10.84,12
+ph0090,OTC016,Acetaminophen,Lozenge,24 count,50.61,89
+ph0090,OTC022,Guaifenesin,Cream,20mg,73.56,114
+ph0090,OTC008,Phenylephrine,Capsule,200mg,52.61,82
+ph0090,OTC025,Vitamin C,Drops,200mg,73.64,193
+ph0090,OTC004,Dextromethorphan,Solution,30mg,71.17,53
+ph0090,OTC010,Cetirizine,Ointment,15g,97.23,0
+ph0090,OTC014,Throat Lozenges,Tablet,20mg,24.51,181
+ph0090,OTC012,Naproxen,Ointment,24 count,68.61,135
+ph0090,OTC011,Electrolyte Solution,Solution,325mg,124.44,165
+ph0090,OTC018,Saline Nasal Spray,Drops,15g,74.76,194
+ph0090,OTC027,Pseudoephedrine,Lozenge,65mg,91.98,111
+ph0090,OTC023,Antacid Tablets,Drops,325mg,38.29,45
+ph0090,OTC021,Aspirin,Capsule,1%,122.09,142
+ph0090,OTC028,Paracetamol,Syrup,750mg,12.12,88
+ph0090,OTC015,Eye Drops,Ointment,100ml,135.72,75
+ph0017,OTC005,Cetirizine,Lozenge,750mg,129.6,161
+ph0017,OTC003,Ibuprofen,Spray,15g,145.56,188
+ph0017,OTC015,Cough Syrup,Spray,1%,90.97,144
+ph0017,OTC014,Calcium Supplement,Capsule,250mg,88.81,33
+ph0017,OTC002,Hydrocortisone Cream,Cream,100ml,102.12,185
+ph0017,OTC022,Iron Supplement,Solution,500mg,40.87,13
+ph0017,OTC008,Chlorpheniramine,Drops,750mg,13.6,100
+ph0017,OTC010,Pseudoephedrine,Cream,10mg,106.29,136
+ph0017,OTC019,Guaifenesin,Solution,24 count,64.46,61
+ph0017,OTC007,Vitamin C,Ointment,1%,49.1,43
+ph0017,OTC029,Eye Drops,Lozenge,200mg,48.3,157
+ph0017,OTC026,Magnesium Supplement,Drops,325mg,117.44,21
+ph0017,OTC030,Multivitamin,Tablet,15g,109.05,182
+ph0017,OTC018,Paracetamol,Solution,500mg,28.62,123
+ph0017,OTC009,Probiotic,Ointment,200mg,73.36,188
+ph0010,OTC011,Vitamin C,Capsule,500mg,69.07,27
+ph0010,OTC005,Omeprazole,Syrup,325mg,91.82,186
+ph0010,OTC021,Chlorpheniramine,Ointment,750mg,38.03,168
+ph0010,OTC013,Zinc Supplement,Tablet,20mg,27.28,184
+ph0010,OTC014,Phenylephrine,Capsule,24 count,123.62,192
+ph0010,OTC008,Saline Nasal Spray,Spray,750mg,69.08,100
+ph0010,OTC018,Ibuprofen,Syrup,65mg,116.36,98
+ph0010,OTC010,Diphenhydramine,Drops,325mg,130.42,2
+ph0010,OTC028,Cough Syrup,Ointment,200mg,13.15,132
+ph0010,OTC006,Antibiotic Ointment,Syrup,325mg,75.78,148
+ph0010,OTC016,Calcium Supplement,Cream,24 count,124.73,32
+ph0010,OTC017,Acetaminophen,Solution,250mg,94.84,174
+ph0010,OTC023,Magnesium Supplement,Tablet,250mg,24.03,73
+ph0010,OTC002,Electrolyte Solution,Ointment,325mg,86.91,104
+ph0010,OTC009,Naproxen,Ointment,750mg,129.6,123
+ph0057,OTC025,Cetirizine,Cream,100ml,12.22,199
+ph0057,OTC023,Hydrocortisone Cream,Spray,100ml,101.7,136
+ph0057,OTC028,Throat Lozenges,Lozenge,15g,30.55,84
+ph0057,OTC003,Phenylephrine,Capsule,200mg,107.05,4
+ph0057,OTC010,Antibiotic Ointment,Solution,325mg,115.54,34
+ph0057,OTC002,Chlorpheniramine,Solution,15g,125.68,137
+ph0057,OTC016,Acetaminophen,Capsule,750mg,19.4,85
+ph0057,OTC019,Pseudoephedrine,Tablet,100ml,84.81,54
+ph0057,OTC022,Naproxen,Lozenge,325mg,82.45,55
+ph0057,OTC014,Paracetamol,Cream,750mg,137.44,145
+ph0057,OTC009,Saline Nasal Spray,Lozenge,750mg,42.95,23
+ph0057,OTC011,Omeprazole,Capsule,325mg,66.69,196
+ph0057,OTC006,Zinc Supplement,Tablet,15g,149.53,61
+ph0057,OTC015,Diphenhydramine,Cream,20mg,19.67,77
+ph0057,OTC013,Iron Supplement,Tablet,30mg,38.42,100
+ph0098,OTC017,Cetirizine,Tablet,15g,15.82,78
+ph0098,OTC016,Iron Supplement,Tablet,15g,134.77,139
+ph0098,OTC006,Naproxen,Solution,100ml,7.2,189
+ph0098,OTC015,Zinc Supplement,Capsule,1%,113.14,181
+ph0098,OTC004,Hydrocortisone Cream,Cream,100ml,26.79,111
+ph0098,OTC005,Magnesium Supplement,Solution,500mg,53.71,98
+ph0098,OTC009,Paracetamol,Lozenge,100ml,136.32,147
+ph0098,OTC029,Phenylephrine,Syrup,24 count,51.65,33
+ph0098,OTC010,Diphenhydramine,Lozenge,250mg,49.03,60
+ph0098,OTC019,Electrolyte Solution,Capsule,10mg,18.7,99
+ph0098,OTC003,Aspirin,Cream,325mg,102.07,108
+ph0098,OTC024,Omeprazole,Spray,200mg,5.77,60
+ph0098,OTC025,Ibuprofen,Tablet,65mg,81.27,12
+ph0098,OTC001,Loratadine,Syrup,1%,139.32,25
+ph0098,OTC018,Pseudoephedrine,Spray,200mg,90.39,60
+ph0092,OTC020,Cough Syrup,Tablet,750mg,131.89,98
+ph0092,OTC012,Chlorpheniramine,Spray,1%,129.3,128
+ph0092,OTC016,Probiotic,Drops,250mg,29.71,65
+ph0092,OTC010,Loratadine,Drops,24 count,129.66,107
+ph0092,OTC008,Naproxen,Solution,15g,76.71,37
+ph0092,OTC023,Eye Drops,Capsule,500mg,81.86,1
+ph0092,OTC015,Omeprazole,Tablet,100ml,113.21,134
+ph0092,OTC019,Antibiotic Ointment,Lozenge,100ml,13.25,102
+ph0092,OTC024,Aspirin,Cream,65mg,110.82,164
+ph0092,OTC022,Antacid Tablets,Capsule,200mg,100.04,150
+ph0092,OTC004,Phenylephrine,Ointment,500mg,87.48,59
+ph0092,OTC005,Zinc Supplement,Syrup,325mg,65.54,199
+ph0092,OTC028,Diphenhydramine,Capsule,24 count,57.79,50
+ph0092,OTC017,Dextromethorphan,Tablet,10mg,37.44,51
+ph0092,OTC021,Melatonin,Tablet,1%,83.78,101
+ph0073,OTC030,Naproxen,Lozenge,24 count,74.63,151
+ph0073,OTC028,Cetirizine,Spray,500mg,102.83,100
+ph0073,OTC014,Zinc Supplement,Tablet,30mg,123.24,144
+ph0073,OTC015,Multivitamin,Spray,20mg,104.23,58
+ph0073,OTC017,Paracetamol,Ointment,200mg,28.11,36
+ph0073,OTC011,Phenylephrine,Lozenge,65mg,51.21,65
+ph0073,OTC022,Melatonin,Tablet,500mg,24.55,152
+ph0073,OTC008,Cough Syrup,Lozenge,24 count,126.99,112
+ph0073,OTC003,Hydrocortisone Cream,Ointment,325mg,70.05,98
+ph0073,OTC004,Saline Nasal Spray,Drops,20mg,141.29,169
+ph0073,OTC010,Pseudoephedrine,Cream,15g,52.94,195
+ph0073,OTC002,Throat Lozenges,Drops,65mg,79.5,141
+ph0073,OTC019,Omeprazole,Syrup,325mg,96.99,78
+ph0073,OTC020,Antibiotic Ointment,Solution,15g,79.91,67
+ph0073,OTC018,Magnesium Supplement,Drops,1%,60.43,116
+ph0081,OTC019,Naproxen,Capsule,250mg,124.81,182
+ph0081,OTC007,Throat Lozenges,Capsule,325mg,96.02,31
+ph0081,OTC008,Melatonin,Lozenge,65mg,104.7,125
+ph0081,OTC006,Aspirin,Spray,10mg,88.97,191
+ph0081,OTC009,Phenylephrine,Capsule,24 count,105.99,14
+ph0081,OTC011,Cetirizine,Ointment,100ml,16.65,42
+ph0081,OTC013,Dextromethorphan,Cream,15g,103.56,191
+ph0081,OTC010,Loratadine,Capsule,20mg,138.0,86
+ph0081,OTC028,Electrolyte Solution,Capsule,750mg,142.14,169
+ph0081,OTC027,Pseudoephedrine,Drops,200mg,35.29,77
+ph0081,OTC002,Antibiotic Ointment,Cream,1%,99.01,30
+ph0081,OTC018,Antacid Tablets,Tablet,20mg,53.67,173
+ph0081,OTC012,Probiotic,Spray,20mg,145.32,130
+ph0081,OTC003,Guaifenesin,Syrup,15g,38.13,132
+ph0081,OTC020,Chlorpheniramine,Capsule,30mg,125.73,8
+ph0013,OTC015,Magnesium Supplement,Syrup,100ml,134.39,197
+ph0013,OTC019,Aspirin,Solution,200mg,129.96,181
+ph0013,OTC020,Omeprazole,Solution,200mg,42.76,104
+ph0013,OTC027,Ibuprofen,Cream,500mg,97.19,154
+ph0013,OTC005,Zinc Supplement,Capsule,200mg,130.43,2
+ph0013,OTC026,Antibiotic Ointment,Cream,325mg,103.04,17
+ph0013,OTC001,Chlorpheniramine,Ointment,30mg,92.66,85
+ph0013,OTC012,Hydrocortisone Cream,Solution,750mg,33.22,144
+ph0013,OTC007,Phenylephrine,Cream,15g,45.46,9
+ph0013,OTC021,Throat Lozenges,Lozenge,30mg,9.12,109
+ph0013,OTC024,Iron Supplement,Lozenge,750mg,11.04,42
+ph0013,OTC013,Probiotic,Drops,24 count,65.21,140
+ph0013,OTC022,Dextromethorphan,Capsule,65mg,65.35,106
+ph0013,OTC004,Antacid Tablets,Syrup,65mg,48.02,118
+ph0013,OTC003,Loratadine,Tablet,500mg,113.87,176
+ph0045,OTC011,Saline Nasal Spray,Syrup,250mg,6.92,137
+ph0045,OTC007,Dextromethorphan,Spray,750mg,55.63,101
+ph0045,OTC016,Pseudoephedrine,Capsule,15g,105.08,167
+ph0045,OTC025,Magnesium Supplement,Syrup,100ml,87.48,148
+ph0045,OTC024,Cough Syrup,Drops,1%,83.76,145
+ph0045,OTC030,Omeprazole,Capsule,325mg,6.37,118
+ph0045,OTC026,Multivitamin,Lozenge,750mg,12.01,120
+ph0045,OTC015,Guaifenesin,Ointment,325mg,58.98,162
+ph0045,OTC009,Eye Drops,Lozenge,1%,6.89,88
+ph0045,OTC004,Cetirizine,Tablet,200mg,81.59,108
+ph0045,OTC013,Hydrocortisone Cream,Syrup,1%,80.68,138
+ph0045,OTC012,Vitamin C,Solution,15g,39.55,88
+ph0045,OTC019,Acetaminophen,Capsule,10mg,85.27,76
+ph0045,OTC023,Calcium Supplement,Drops,24 count,11.65,23
+ph0045,OTC010,Aspirin,Spray,250mg,102.56,76
+ph0050,OTC020,Vitamin C,Spray,15g,106.36,91
+ph0050,OTC002,Chlorpheniramine,Ointment,30mg,121.95,121
+ph0050,OTC026,Cetirizine,Drops,15g,35.25,146
+ph0050,OTC001,Multivitamin,Ointment,30mg,144.35,78
+ph0050,OTC030,Cough Syrup,Tablet,500mg,28.98,180
+ph0050,OTC028,Eye Drops,Lozenge,24 count,140.67,155
+ph0050,OTC009,Melatonin,Lozenge,250mg,15.8,160
+ph0050,OTC005,Paracetamol,Tablet,100ml,127.32,117
+ph0050,OTC021,Zinc Supplement,Solution,100ml,128.04,6
+ph0050,OTC010,Loratadine,Spray,1%,124.47,30
+ph0050,OTC011,Omeprazole,Cream,500mg,5.14,163
+ph0050,OTC029,Calcium Supplement,Spray,325mg,37.92,152
+ph0050,OTC012,Aspirin,Lozenge,200mg,42.86,15
+ph0050,OTC004,Guaifenesin,Spray,24 count,42.53,157
+ph0050,OTC007,Dextromethorphan,Tablet,65mg,124.79,12
+ph0087,OTC003,Electrolyte Solution,Ointment,20mg,138.06,54
+ph0087,OTC004,Dextromethorphan,Tablet,1%,84.12,140
+ph0087,OTC020,Calcium Supplement,Lozenge,200mg,26.36,169
+ph0087,OTC018,Probiotic,Spray,500mg,45.18,34
+ph0087,OTC029,Paracetamol,Syrup,325mg,6.89,60
+ph0087,OTC011,Antibiotic Ointment,Solution,1%,118.85,187
+ph0087,OTC010,Pseudoephedrine,Ointment,750mg,21.08,5
+ph0087,OTC002,Acetaminophen,Drops,20mg,17.32,51
+ph0087,OTC030,Magnesium Supplement,Syrup,20mg,82.87,84
+ph0087,OTC024,Throat Lozenges,Drops,250mg,6.21,111
+ph0087,OTC016,Iron Supplement,Tablet,100ml,20.89,151
+ph0087,OTC026,Chlorpheniramine,Capsule,200mg,19.78,172
+ph0087,OTC012,Antacid Tablets,Spray,250mg,30.39,175
+ph0087,OTC025,Vitamin C,Spray,65mg,14.39,125
+ph0087,OTC006,Omeprazole,Spray,250mg,47.86,32
+ph0076,OTC019,Hydrocortisone Cream,Ointment,500mg,147.81,162
+ph0076,OTC018,Antacid Tablets,Solution,15g,20.94,190
+ph0076,OTC025,Naproxen,Syrup,10mg,130.6,67
+ph0076,OTC027,Throat Lozenges,Syrup,325mg,108.33,51
+ph0076,OTC024,Magnesium Supplement,Spray,30mg,51.64,27
+ph0076,OTC020,Zinc Supplement,Syrup,100ml,24.31,190
+ph0076,OTC012,Vitamin C,Spray,250mg,101.49,171
+ph0076,OTC030,Phenylephrine,Capsule,750mg,85.19,12
+ph0076,OTC028,Chlorpheniramine,Spray,500mg,78.33,154
+ph0076,OTC002,Acetaminophen,Ointment,24 count,57.82,20
+ph0076,OTC021,Loratadine,Capsule,500mg,48.01,172
+ph0076,OTC014,Diphenhydramine,Syrup,500mg,74.92,96
+ph0076,OTC015,Electrolyte Solution,Ointment,750mg,60.15,16
+ph0076,OTC006,Pseudoephedrine,Tablet,24 count,60.34,112
+ph0076,OTC003,Aspirin,Tablet,200mg,121.7,25
+ph0095,OTC015,Omeprazole,Syrup,65mg,145.78,152
+ph0095,OTC014,Ibuprofen,Solution,500mg,104.82,75
+ph0095,OTC027,Calcium Supplement,Solution,1%,74.14,41
+ph0095,OTC006,Vitamin C,Solution,325mg,43.1,122
+ph0095,OTC020,Multivitamin,Tablet,30mg,24.31,105
+ph0095,OTC001,Guaifenesin,Capsule,325mg,5.32,4
+ph0095,OTC009,Melatonin,Capsule,100ml,108.19,108
+ph0095,OTC004,Paracetamol,Syrup,10mg,57.48,149
+ph0095,OTC024,Aspirin,Spray,24 count,37.36,187
+ph0095,OTC028,Chlorpheniramine,Tablet,325mg,60.84,19
+ph0095,OTC017,Cetirizine,Lozenge,750mg,65.74,38
+ph0095,OTC023,Loratadine,Ointment,1%,134.01,115
+ph0095,OTC005,Antibiotic Ointment,Tablet,100ml,114.77,30
+ph0095,OTC010,Cough Syrup,Capsule,10mg,71.33,72
+ph0095,OTC013,Naproxen,Syrup,20mg,87.26,77
+ph0082,OTC014,Cetirizine,Lozenge,100ml,140.93,170
+ph0082,OTC028,Iron Supplement,Ointment,24 count,82.95,98
+ph0082,OTC012,Antibiotic Ointment,Tablet,1%,19.15,137
+ph0082,OTC009,Cough Syrup,Ointment,250mg,56.1,195
+ph0082,OTC003,Acetaminophen,Solution,1%,116.46,101
+ph0082,OTC004,Diphenhydramine,Cream,10mg,92.14,9
+ph0082,OTC023,Ibuprofen,Lozenge,15g,17.88,2
+ph0082,OTC002,Probiotic,Drops,500mg,127.15,11
+ph0082,OTC016,Dextromethorphan,Syrup,30mg,143.77,74
+ph0082,OTC010,Vitamin C,Lozenge,500mg,46.87,17
+ph0082,OTC030,Hydrocortisone Cream,Solution,65mg,137.91,22
+ph0082,OTC006,Melatonin,Lozenge,750mg,102.93,151
+ph0082,OTC005,Throat Lozenges,Lozenge,200mg,20.58,115
+ph0082,OTC025,Loratadine,Capsule,20mg,135.13,91
+ph0082,OTC020,Aspirin,Cream,100ml,83.0,84
+ph0007,OTC025,Diphenhydramine,Lozenge,10mg,101.13,76
+ph0007,OTC022,Saline Nasal Spray,Syrup,200mg,36.79,150
+ph0007,OTC015,Eye Drops,Tablet,1%,133.54,162
+ph0007,OTC028,Acetaminophen,Ointment,65mg,68.07,109
+ph0007,OTC013,Antibiotic Ointment,Lozenge,500mg,20.06,132
+ph0007,OTC001,Phenylephrine,Ointment,500mg,130.07,168
+ph0007,OTC024,Calcium Supplement,Lozenge,10mg,34.53,87
+ph0007,OTC009,Electrolyte Solution,Solution,24 count,36.95,48
+ph0007,OTC018,Dextromethorphan,Lozenge,100ml,15.99,142
+ph0007,OTC010,Vitamin C,Capsule,500mg,112.9,163
+ph0007,OTC012,Magnesium Supplement,Ointment,500mg,15.24,115
+ph0007,OTC011,Loratadine,Solution,200mg,104.29,73
+ph0007,OTC029,Omeprazole,Solution,325mg,76.11,95
+ph0007,OTC006,Melatonin,Ointment,500mg,56.31,164
+ph0007,OTC020,Antacid Tablets,Capsule,325mg,101.08,90
+ph0044,OTC026,Ibuprofen,Solution,100ml,145.84,51
+ph0044,OTC013,Guaifenesin,Ointment,1%,102.1,172
+ph0044,OTC012,Diphenhydramine,Capsule,325mg,140.96,140
+ph0044,OTC021,Loratadine,Spray,200mg,22.55,79
+ph0044,OTC011,Iron Supplement,Drops,500mg,123.2,61
+ph0044,OTC028,Calcium Supplement,Tablet,500mg,14.18,26
+ph0044,OTC019,Magnesium Supplement,Tablet,1%,69.72,160
+ph0044,OTC029,Eye Drops,Ointment,24 count,126.15,123
+ph0044,OTC023,Throat Lozenges,Lozenge,65mg,61.06,45
+ph0044,OTC006,Acetaminophen,Spray,250mg,92.27,64
+ph0044,OTC030,Paracetamol,Capsule,500mg,141.06,40
+ph0044,OTC001,Vitamin C,Drops,65mg,15.06,133
+ph0044,OTC008,Dextromethorphan,Cream,30mg,7.5,6
+ph0044,OTC027,Pseudoephedrine,Solution,325mg,88.9,126
+ph0044,OTC015,Electrolyte Solution,Capsule,250mg,78.53,197
+ph0042,OTC002,Chlorpheniramine,Capsule,20mg,57.43,158
+ph0042,OTC013,Eye Drops,Ointment,500mg,33.12,112
+ph0042,OTC005,Acetaminophen,Cream,250mg,44.3,140
+ph0042,OTC026,Pseudoephedrine,Drops,200mg,107.46,125
+ph0042,OTC029,Multivitamin,Tablet,100ml,67.48,43
+ph0042,OTC003,Throat Lozenges,Cream,15g,35.08,57
+ph0042,OTC015,Vitamin C,Lozenge,24 count,96.68,160
+ph0042,OTC027,Naproxen,Lozenge,65mg,19.75,1
+ph0042,OTC030,Electrolyte Solution,Syrup,100ml,148.17,143
+ph0042,OTC004,Omeprazole,Solution,20mg,132.53,41
+ph0042,OTC012,Ibuprofen,Solution,10mg,123.72,144
+ph0042,OTC008,Zinc Supplement,Drops,24 count,47.69,162
+ph0042,OTC014,Guaifenesin,Lozenge,10mg,50.43,55
+ph0042,OTC011,Cough Syrup,Tablet,200mg,91.45,125
+ph0042,OTC009,Dextromethorphan,Solution,500mg,92.26,55
+ph0038,OTC012,Vitamin C,Solution,325mg,85.39,137
+ph0038,OTC016,Pseudoephedrine,Syrup,250mg,69.32,22
+ph0038,OTC015,Ibuprofen,Spray,30mg,144.59,31
+ph0038,OTC026,Iron Supplement,Tablet,15g,107.98,139
+ph0038,OTC004,Omeprazole,Solution,30mg,76.58,26
+ph0038,OTC030,Antibiotic Ointment,Drops,750mg,100.04,38
+ph0038,OTC005,Paracetamol,Tablet,20mg,36.64,7
+ph0038,OTC022,Multivitamin,Cream,1%,82.44,132
+ph0038,OTC001,Saline Nasal Spray,Cream,15g,114.62,14
+ph0038,OTC025,Acetaminophen,Ointment,200mg,58.76,11
+ph0038,OTC024,Hydrocortisone Cream,Tablet,15g,136.64,135
+ph0038,OTC017,Guaifenesin,Spray,100ml,62.84,170
+ph0038,OTC013,Magnesium Supplement,Solution,250mg,16.58,28
+ph0038,OTC019,Chlorpheniramine,Tablet,1%,59.69,15
+ph0038,OTC014,Phenylephrine,Cream,325mg,110.8,52
+ph0094,OTC020,Multivitamin,Solution,30mg,55.88,160
+ph0094,OTC024,Eye Drops,Solution,65mg,130.92,23
+ph0094,OTC028,Cetirizine,Lozenge,500mg,92.84,87
+ph0094,OTC016,Melatonin,Tablet,325mg,92.71,30
+ph0094,OTC009,Antibiotic Ointment,Solution,200mg,65.23,10
+ph0094,OTC019,Vitamin C,Drops,10mg,122.5,76
+ph0094,OTC003,Aspirin,Syrup,15g,11.99,121
+ph0094,OTC029,Loratadine,Cream,500mg,42.38,144
+ph0094,OTC008,Naproxen,Spray,200mg,31.16,137
+ph0094,OTC023,Paracetamol,Cream,325mg,72.5,16
+ph0094,OTC015,Diphenhydramine,Lozenge,200mg,28.85,53
+ph0094,OTC001,Hydrocortisone Cream,Tablet,30mg,98.88,78
+ph0094,OTC014,Ibuprofen,Drops,200mg,51.91,22
+ph0094,OTC022,Antacid Tablets,Ointment,250mg,43.01,41
+ph0094,OTC027,Iron Supplement,Syrup,24 count,40.51,107
+ph0012,OTC030,Probiotic,Drops,10mg,139.32,95
+ph0012,OTC019,Diphenhydramine,Capsule,30mg,46.12,74
+ph0012,OTC016,Antacid Tablets,Solution,325mg,39.24,110
+ph0012,OTC018,Antibiotic Ointment,Cream,15g,30.01,134
+ph0012,OTC003,Guaifenesin,Spray,20mg,78.73,57
+ph0012,OTC001,Cough Syrup,Spray,500mg,60.51,39
+ph0012,OTC008,Iron Supplement,Lozenge,325mg,24.66,86
+ph0012,OTC017,Hydrocortisone Cream,Capsule,24 count,110.14,137
+ph0012,OTC022,Saline Nasal Spray,Spray,15g,66.34,67
+ph0012,OTC028,Naproxen,Solution,1%,75.83,131
+ph0012,OTC011,Electrolyte Solution,Ointment,20mg,61.28,85
+ph0012,OTC012,Zinc Supplement,Lozenge,1%,96.73,38
+ph0012,OTC025,Loratadine,Tablet,24 count,54.51,102
+ph0012,OTC021,Dextromethorphan,Capsule,1%,67.88,44
+ph0012,OTC026,Chlorpheniramine,Capsule,750mg,85.62,138
+ph0097,OTC014,Acetaminophen,Lozenge,24 count,90.24,99
+ph0097,OTC018,Chlorpheniramine,Lozenge,30mg,122.92,164
+ph0097,OTC021,Hydrocortisone Cream,Lozenge,500mg,60.59,89
+ph0097,OTC026,Guaifenesin,Tablet,30mg,111.49,108
+ph0097,OTC022,Zinc Supplement,Tablet,30mg,68.11,134
+ph0097,OTC024,Saline Nasal Spray,Tablet,250mg,52.72,140
+ph0097,OTC012,Omeprazole,Syrup,24 count,124.49,127
+ph0097,OTC013,Eye Drops,Ointment,325mg,141.91,123
+ph0097,OTC015,Dextromethorphan,Lozenge,30mg,32.45,126
+ph0097,OTC027,Phenylephrine,Drops,750mg,14.06,101
+ph0097,OTC005,Probiotic,Lozenge,20mg,33.15,37
+ph0097,OTC009,Electrolyte Solution,Solution,200mg,146.22,139
+ph0097,OTC017,Calcium Supplement,Drops,30mg,50.8,56
+ph0097,OTC028,Loratadine,Ointment,30mg,139.67,90
+ph0097,OTC019,Vitamin C,Ointment,10mg,126.01,5
+ph0015,OTC030,Guaifenesin,Capsule,1%,42.84,133
+ph0015,OTC012,Throat Lozenges,Spray,750mg,39.42,168
+ph0015,OTC015,Calcium Supplement,Lozenge,200mg,129.48,81
+ph0015,OTC007,Antibiotic Ointment,Syrup,500mg,75.27,168
+ph0015,OTC013,Melatonin,Tablet,1%,6.22,66
+ph0015,OTC010,Saline Nasal Spray,Syrup,100ml,121.12,28
+ph0015,OTC023,Dextromethorphan,Drops,10mg,88.11,18
+ph0015,OTC021,Chlorpheniramine,Solution,10mg,24.47,103
+ph0015,OTC001,Iron Supplement,Cream,15g,25.44,161
+ph0015,OTC006,Multivitamin,Spray,65mg,68.78,122
+ph0015,OTC011,Eye Drops,Solution,500mg,78.86,68
+ph0015,OTC008,Acetaminophen,Drops,250mg,82.99,141
+ph0015,OTC018,Ibuprofen,Cream,10mg,94.96,61
+ph0015,OTC025,Zinc Supplement,Syrup,65mg,107.86,163
+ph0015,OTC004,Electrolyte Solution,Capsule,10mg,24.74,118
+ph0037,OTC018,Guaifenesin,Cream,200mg,52.36,20
+ph0037,OTC027,Vitamin C,Syrup,500mg,66.17,137
+ph0037,OTC014,Saline Nasal Spray,Cream,10mg,60.57,79
+ph0037,OTC030,Aspirin,Syrup,20mg,146.12,47
+ph0037,OTC003,Cough Syrup,Capsule,20mg,124.81,150
+ph0037,OTC020,Hydrocortisone Cream,Capsule,500mg,108.01,188
+ph0037,OTC013,Eye Drops,Capsule,20mg,86.33,35
+ph0037,OTC019,Antacid Tablets,Solution,30mg,139.46,194
+ph0037,OTC017,Loratadine,Ointment,30mg,8.2,115
+ph0037,OTC005,Calcium Supplement,Lozenge,500mg,78.68,23
+ph0037,OTC016,Paracetamol,Syrup,20mg,50.01,193
+ph0037,OTC026,Cetirizine,Lozenge,750mg,12.47,7
+ph0037,OTC004,Dextromethorphan,Ointment,10mg,6.25,187
+ph0037,OTC021,Throat Lozenges,Lozenge,65mg,133.34,39
+ph0037,OTC025,Electrolyte Solution,Tablet,1%,129.93,184
+ph0040,OTC018,Cough Syrup,Capsule,750mg,48.2,37
+ph0040,OTC014,Paracetamol,Lozenge,15g,10.22,29
+ph0040,OTC001,Iron Supplement,Tablet,1%,100.66,129
+ph0040,OTC010,Omeprazole,Lozenge,10mg,143.91,9
+ph0040,OTC021,Antibiotic Ointment,Capsule,250mg,34.9,172
+ph0040,OTC005,Hydrocortisone Cream,Solution,15g,124.37,144
+ph0040,OTC020,Naproxen,Syrup,15g,59.92,146
+ph0040,OTC023,Cetirizine,Ointment,30mg,25.06,176
+ph0040,OTC004,Zinc Supplement,Cream,20mg,16.94,186
+ph0040,OTC002,Pseudoephedrine,Solution,30mg,55.37,107
+ph0040,OTC016,Multivitamin,Cream,20mg,137.68,120
+ph0040,OTC024,Probiotic,Lozenge,30mg,50.6,139
+ph0040,OTC019,Acetaminophen,Spray,500mg,57.21,21
+ph0040,OTC029,Dextromethorphan,Cream,65mg,128.43,142
+ph0040,OTC026,Melatonin,Drops,10mg,128.81,112
+ph0060,OTC012,Pseudoephedrine,Lozenge,15g,19.35,120
+ph0060,OTC027,Ibuprofen,Drops,65mg,65.76,179
+ph0060,OTC023,Antibiotic Ointment,Drops,100ml,30.57,184
+ph0060,OTC015,Probiotic,Solution,65mg,84.8,124
+ph0060,OTC022,Saline Nasal Spray,Drops,500mg,100.66,12
+ph0060,OTC011,Dextromethorphan,Spray,10mg,125.49,102
+ph0060,OTC013,Cetirizine,Spray,30mg,50.68,132
+ph0060,OTC009,Naproxen,Cream,24 count,128.42,46
+ph0060,OTC017,Electrolyte Solution,Capsule,30mg,28.06,128
+ph0060,OTC001,Vitamin C,Capsule,1%,24.33,70
+ph0060,OTC025,Iron Supplement,Cream,20mg,140.98,110
+ph0060,OTC007,Antacid Tablets,Capsule,100ml,107.74,4
+ph0060,OTC010,Zinc Supplement,Spray,250mg,51.64,93
+ph0060,OTC020,Guaifenesin,Solution,200mg,19.81,145
+ph0060,OTC021,Aspirin,Drops,250mg,92.7,130
+ph0039,OTC025,Melatonin,Ointment,325mg,123.89,190
+ph0039,OTC021,Magnesium Supplement,Tablet,200mg,82.15,10
+ph0039,OTC026,Paracetamol,Syrup,20mg,74.81,186
+ph0039,OTC030,Zinc Supplement,Tablet,750mg,35.17,38
+ph0039,OTC028,Diphenhydramine,Syrup,100ml,111.08,163
+ph0039,OTC024,Hydrocortisone Cream,Spray,500mg,115.79,181
+ph0039,OTC014,Antibiotic Ointment,Tablet,250mg,128.46,20
+ph0039,OTC017,Probiotic,Capsule,20mg,15.62,168
+ph0039,OTC002,Loratadine,Tablet,65mg,74.69,117
+ph0039,OTC027,Aspirin,Syrup,20mg,56.9,132
+ph0039,OTC011,Antacid Tablets,Spray,500mg,87.05,124
+ph0039,OTC007,Pseudoephedrine,Drops,10mg,57.29,149
+ph0039,OTC016,Guaifenesin,Spray,20mg,24.97,106
+ph0039,OTC003,Dextromethorphan,Cream,15g,142.27,123
+ph0039,OTC018,Saline Nasal Spray,Tablet,100ml,83.02,106
+ph0068,OTC026,Saline Nasal Spray,Syrup,200mg,34.39,101
+ph0068,OTC024,Loratadine,Ointment,100ml,131.35,105
+ph0068,OTC001,Dextromethorphan,Tablet,15g,121.55,153
+ph0068,OTC006,Omeprazole,Syrup,250mg,58.18,49
+ph0068,OTC016,Antacid Tablets,Spray,200mg,139.94,80
+ph0068,OTC013,Naproxen,Drops,10mg,75.26,2
+ph0068,OTC019,Vitamin C,Cream,10mg,69.48,175
+ph0068,OTC010,Guaifenesin,Solution,15g,145.01,21
+ph0068,OTC017,Multivitamin,Ointment,20mg,14.37,110
+ph0068,OTC027,Melatonin,Solution,15g,60.86,74
+ph0068,OTC023,Magnesium Supplement,Ointment,1%,148.1,118
+ph0068,OTC029,Phenylephrine,Spray,10mg,57.66,28
+ph0068,OTC028,Diphenhydramine,Tablet,30mg,71.03,42
+ph0068,OTC020,Zinc Supplement,Lozenge,325mg,19.7,41
+ph0068,OTC002,Iron Supplement,Solution,200mg,27.36,183
+ph0004,OTC002,Melatonin,Capsule,100ml,148.36,60
+ph0004,OTC008,Cough Syrup,Cream,200mg,65.75,103
+ph0004,OTC019,Paracetamol,Drops,15g,88.44,109
+ph0004,OTC025,Calcium Supplement,Drops,325mg,59.6,25
+ph0004,OTC011,Antibiotic Ointment,Spray,750mg,20.44,38
+ph0004,OTC018,Ibuprofen,Lozenge,100ml,120.49,176
+ph0004,OTC023,Dextromethorphan,Lozenge,325mg,107.23,75
+ph0004,OTC026,Saline Nasal Spray,Capsule,30mg,107.38,11
+ph0004,OTC009,Cetirizine,Tablet,750mg,70.76,75
+ph0004,OTC003,Omeprazole,Syrup,24 count,45.75,200
+ph0004,OTC014,Phenylephrine,Tablet,500mg,147.02,103
+ph0004,OTC030,Pseudoephedrine,Cream,500mg,70.43,194
+ph0004,OTC015,Chlorpheniramine,Spray,750mg,63.9,164
+ph0004,OTC027,Loratadine,Cream,500mg,84.3,115
+ph0004,OTC016,Vitamin C,Solution,30mg,33.89,186
+ph0100,OTC009,Hydrocortisone Cream,Syrup,250mg,99.57,123
+ph0100,OTC028,Guaifenesin,Solution,1%,85.39,177
+ph0100,OTC005,Eye Drops,Lozenge,65mg,127.62,115
+ph0100,OTC013,Diphenhydramine,Lozenge,15g,22.46,25
+ph0100,OTC008,Paracetamol,Solution,1%,111.49,77
+ph0100,OTC019,Multivitamin,Drops,15g,149.03,27
+ph0100,OTC022,Aspirin,Syrup,30mg,139.51,61
+ph0100,OTC011,Antacid Tablets,Spray,24 count,134.83,111
+ph0100,OTC015,Phenylephrine,Ointment,200mg,142.31,185
+ph0100,OTC012,Omeprazole,Cream,30mg,65.08,144
+ph0100,OTC010,Ibuprofen,Spray,325mg,16.06,88
+ph0100,OTC024,Naproxen,Ointment,20mg,147.75,140
+ph0100,OTC006,Cetirizine,Lozenge,15g,10.02,25
+ph0100,OTC023,Antibiotic Ointment,Lozenge,1%,68.09,177
+ph0100,OTC018,Magnesium Supplement,Syrup,1%,75.16,137
+ph0051,OTC017,Naproxen,Capsule,325mg,80.73,134
+ph0051,OTC001,Throat Lozenges,Drops,250mg,91.66,148
+ph0051,OTC020,Hydrocortisone Cream,Solution,750mg,18.95,28
+ph0051,OTC027,Melatonin,Tablet,30mg,92.99,175
+ph0051,OTC019,Phenylephrine,Syrup,15g,86.75,164
+ph0051,OTC011,Cough Syrup,Syrup,30mg,104.54,196
+ph0051,OTC002,Dextromethorphan,Syrup,15g,136.11,90
+ph0051,OTC029,Acetaminophen,Ointment,250mg,13.06,7
+ph0051,OTC022,Antibiotic Ointment,Lozenge,750mg,62.07,151
+ph0051,OTC023,Vitamin C,Tablet,10mg,105.09,198
+ph0051,OTC016,Aspirin,Drops,10mg,67.99,4
+ph0051,OTC024,Ibuprofen,Ointment,1%,13.49,91
+ph0051,OTC014,Electrolyte Solution,Cream,10mg,46.24,37
+ph0051,OTC030,Magnesium Supplement,Ointment,24 count,115.16,159
+ph0051,OTC012,Cetirizine,Capsule,24 count,90.8,60
+ph0072,OTC006,Loratadine,Solution,10mg,95.42,8
+ph0072,OTC005,Aspirin,Capsule,500mg,106.05,155
+ph0072,OTC008,Antibiotic Ointment,Lozenge,1%,109.77,148
+ph0072,OTC003,Eye Drops,Spray,100ml,115.1,86
+ph0072,OTC028,Guaifenesin,Syrup,10mg,51.03,200
+ph0072,OTC027,Paracetamol,Lozenge,30mg,72.42,52
+ph0072,OTC017,Vitamin C,Solution,250mg,46.18,178
+ph0072,OTC021,Magnesium Supplement,Lozenge,24 count,14.88,130
+ph0072,OTC018,Multivitamin,Solution,30mg,46.19,146
+ph0072,OTC022,Chlorpheniramine,Cream,500mg,71.37,164
+ph0072,OTC020,Antacid Tablets,Lozenge,325mg,8.9,0
+ph0072,OTC016,Probiotic,Solution,30mg,130.96,27
+ph0072,OTC012,Calcium Supplement,Spray,100ml,112.25,110
+ph0072,OTC014,Phenylephrine,Cream,500mg,68.56,77
+ph0072,OTC029,Hydrocortisone Cream,Drops,100ml,10.73,29
+ph0066,OTC013,Antacid Tablets,Drops,325mg,100.69,93
+ph0066,OTC005,Pseudoephedrine,Solution,24 count,128.53,3
+ph0066,OTC004,Paracetamol,Lozenge,30mg,145.96,155
+ph0066,OTC015,Magnesium Supplement,Capsule,325mg,97.3,78
+ph0066,OTC007,Cetirizine,Lozenge,20mg,86.41,190
+ph0066,OTC022,Ibuprofen,Ointment,10mg,16.12,160
+ph0066,OTC021,Naproxen,Solution,24 count,32.85,22
+ph0066,OTC018,Throat Lozenges,Tablet,325mg,13.78,30
+ph0066,OTC028,Phenylephrine,Lozenge,15g,66.69,143
+ph0066,OTC020,Loratadine,Syrup,250mg,104.41,108
+ph0066,OTC006,Hydrocortisone Cream,Tablet,10mg,27.21,190
+ph0066,OTC019,Diphenhydramine,Syrup,10mg,104.88,105
+ph0066,OTC026,Eye Drops,Lozenge,10mg,67.21,157
+ph0066,OTC025,Melatonin,Capsule,15g,148.33,70
+ph0066,OTC023,Iron Supplement,Ointment,24 count,74.6,173
+ph0031,OTC013,Aspirin,Cream,200mg,148.7,196
+ph0031,OTC019,Electrolyte Solution,Ointment,750mg,18.73,61
+ph0031,OTC027,Probiotic,Capsule,15g,29.87,75
+ph0031,OTC007,Eye Drops,Cream,20mg,145.75,179
+ph0031,OTC028,Diphenhydramine,Ointment,250mg,17.98,104
+ph0031,OTC026,Throat Lozenges,Ointment,30mg,23.62,87
+ph0031,OTC004,Phenylephrine,Ointment,250mg,95.6,67
+ph0031,OTC030,Guaifenesin,Solution,500mg,105.94,36
+ph0031,OTC008,Chlorpheniramine,Spray,250mg,98.63,62
+ph0031,OTC010,Vitamin C,Spray,100ml,50.88,36
+ph0031,OTC012,Loratadine,Tablet,15g,63.12,20
+ph0031,OTC024,Naproxen,Spray,15g,100.3,112
+ph0031,OTC020,Magnesium Supplement,Cream,20mg,84.5,24
+ph0031,OTC002,Melatonin,Spray,500mg,41.29,145
+ph0031,OTC001,Saline Nasal Spray,Spray,325mg,67.5,161
+ph0018,OTC003,Aspirin,Drops,30mg,61.98,122
+ph0018,OTC027,Eye Drops,Capsule,500mg,94.6,155
+ph0018,OTC010,Iron Supplement,Syrup,325mg,80.4,198
+ph0018,OTC019,Cetirizine,Lozenge,10mg,74.28,129
+ph0018,OTC005,Ibuprofen,Tablet,10mg,91.73,149
+ph0018,OTC013,Chlorpheniramine,Solution,15g,18.25,144
+ph0018,OTC030,Electrolyte Solution,Cream,1%,137.34,33
+ph0018,OTC017,Calcium Supplement,Cream,10mg,25.3,191
+ph0018,OTC024,Hydrocortisone Cream,Cream,750mg,122.84,39
+ph0018,OTC008,Cough Syrup,Syrup,65mg,68.93,140
+ph0018,OTC006,Throat Lozenges,Tablet,250mg,126.04,149
+ph0018,OTC007,Guaifenesin,Cream,325mg,120.59,85
+ph0018,OTC028,Omeprazole,Syrup,100ml,102.54,199
+ph0018,OTC015,Zinc Supplement,Capsule,100ml,60.22,107
+ph0018,OTC001,Magnesium Supplement,Cream,20mg,118.77,28
+ph0064,OTC030,Saline Nasal Spray,Spray,100ml,46.76,27
+ph0064,OTC028,Multivitamin,Tablet,750mg,64.67,95
+ph0064,OTC024,Paracetamol,Capsule,20mg,141.7,122
+ph0064,OTC025,Naproxen,Solution,10mg,49.77,24
+ph0064,OTC026,Electrolyte Solution,Solution,24 count,148.42,103
+ph0064,OTC017,Guaifenesin,Capsule,100ml,33.36,108
+ph0064,OTC029,Dextromethorphan,Solution,30mg,110.67,160
+ph0064,OTC012,Iron Supplement,Lozenge,10mg,111.96,22
+ph0064,OTC020,Antibiotic Ointment,Syrup,1%,45.62,190
+ph0064,OTC005,Omeprazole,Drops,10mg,133.17,11
+ph0064,OTC023,Chlorpheniramine,Drops,65mg,82.98,20
+ph0064,OTC019,Calcium Supplement,Ointment,200mg,58.87,101
+ph0064,OTC013,Probiotic,Drops,30mg,135.37,78
+ph0064,OTC006,Hydrocortisone Cream,Lozenge,30mg,14.91,132
+ph0064,OTC015,Eye Drops,Spray,10mg,62.86,106
+ph0075,OTC002,Ibuprofen,Spray,30mg,54.67,188
+ph0075,OTC026,Cetirizine,Cream,750mg,119.59,13
+ph0075,OTC024,Hydrocortisone Cream,Syrup,65mg,128.57,1
+ph0075,OTC025,Zinc Supplement,Ointment,200mg,67.84,11
+ph0075,OTC030,Electrolyte Solution,Cream,20mg,17.43,54
+ph0075,OTC019,Diphenhydramine,Solution,24 count,9.11,25
+ph0075,OTC003,Loratadine,Solution,250mg,146.36,168
+ph0075,OTC008,Iron Supplement,Syrup,250mg,36.25,176
+ph0075,OTC022,Omeprazole,Lozenge,10mg,103.11,164
+ph0075,OTC029,Vitamin C,Drops,20mg,60.43,184
+ph0075,OTC011,Cough Syrup,Drops,750mg,32.25,64
+ph0075,OTC016,Paracetamol,Syrup,250mg,35.8,9
+ph0075,OTC004,Multivitamin,Spray,325mg,59.15,126
+ph0075,OTC013,Pseudoephedrine,Syrup,200mg,81.93,132
+ph0075,OTC028,Naproxen,Tablet,250mg,99.26,148
+ph0091,OTC026,Hydrocortisone Cream,Tablet,10mg,143.37,90
+ph0091,OTC012,Magnesium Supplement,Drops,1%,134.44,187
+ph0091,OTC024,Dextromethorphan,Cream,20mg,144.93,81
+ph0091,OTC028,Antacid Tablets,Spray,750mg,85.03,47
+ph0091,OTC001,Cough Syrup,Solution,500mg,113.72,15
+ph0091,OTC023,Cetirizine,Ointment,15g,76.6,81
+ph0091,OTC014,Diphenhydramine,Ointment,200mg,24.12,19
+ph0091,OTC006,Ibuprofen,Lozenge,65mg,111.65,144
+ph0091,OTC020,Electrolyte Solution,Cream,10mg,104.3,113
+ph0091,OTC019,Throat Lozenges,Capsule,24 count,83.78,182
+ph0091,OTC002,Saline Nasal Spray,Lozenge,1%,144.48,18
+ph0091,OTC017,Paracetamol,Spray,100ml,130.12,116
+ph0091,OTC025,Omeprazole,Ointment,65mg,148.75,60
+ph0091,OTC030,Probiotic,Lozenge,500mg,5.54,13
+ph0091,OTC008,Multivitamin,Solution,24 count,116.91,59
+ph0079,OTC001,Hydrocortisone Cream,Tablet,100ml,106.04,107
+ph0079,OTC019,Aspirin,Ointment,100ml,120.53,25
+ph0079,OTC008,Zinc Supplement,Ointment,15g,107.56,91
+ph0079,OTC018,Cetirizine,Syrup,10mg,81.6,110
+ph0079,OTC006,Naproxen,Spray,1%,112.82,20
+ph0079,OTC028,Electrolyte Solution,Lozenge,250mg,145.25,131
+ph0079,OTC014,Saline Nasal Spray,Syrup,30mg,109.09,197
+ph0079,OTC007,Ibuprofen,Ointment,24 count,39.45,19
+ph0079,OTC012,Throat Lozenges,Cream,100ml,42.73,78
+ph0079,OTC023,Probiotic,Ointment,24 count,110.3,62
+ph0079,OTC009,Calcium Supplement,Cream,24 count,74.78,125
+ph0079,OTC030,Diphenhydramine,Syrup,325mg,15.57,31
+ph0079,OTC024,Antacid Tablets,Lozenge,65mg,49.18,79
+ph0079,OTC029,Loratadine,Cream,500mg,104.42,54
+ph0079,OTC015,Paracetamol,Solution,750mg,40.15,44
+ph0043,OTC017,Magnesium Supplement,Syrup,65mg,32.89,75
+ph0043,OTC015,Aspirin,Ointment,250mg,76.54,43
+ph0043,OTC002,Calcium Supplement,Capsule,325mg,18.5,63
+ph0043,OTC018,Zinc Supplement,Cream,750mg,26.33,192
+ph0043,OTC013,Throat Lozenges,Capsule,24 count,5.52,2
+ph0043,OTC014,Antacid Tablets,Ointment,500mg,128.24,69
+ph0043,OTC026,Iron Supplement,Cream,750mg,104.66,111
+ph0043,OTC028,Multivitamin,Tablet,24 count,44.04,176
+ph0043,OTC012,Guaifenesin,Ointment,20mg,113.2,172
+ph0043,OTC009,Cetirizine,Tablet,24 count,117.98,103
+ph0043,OTC021,Phenylephrine,Solution,325mg,10.55,1
+ph0043,OTC024,Chlorpheniramine,Cream,750mg,26.87,185
+ph0043,OTC003,Cough Syrup,Solution,65mg,137.69,8
+ph0043,OTC004,Diphenhydramine,Spray,325mg,110.37,118
+ph0043,OTC001,Omeprazole,Tablet,500mg,52.52,200
+ph0016,OTC027,Probiotic,Tablet,1%,74.15,97
+ph0016,OTC008,Guaifenesin,Solution,30mg,77.83,185
+ph0016,OTC014,Diphenhydramine,Lozenge,750mg,67.01,11
+ph0016,OTC022,Omeprazole,Drops,750mg,26.36,3
+ph0016,OTC007,Multivitamin,Spray,750mg,46.68,153
+ph0016,OTC004,Eye Drops,Tablet,500mg,137.93,118
+ph0016,OTC021,Hydrocortisone Cream,Spray,10mg,78.4,8
+ph0016,OTC030,Aspirin,Tablet,30mg,70.49,34
+ph0016,OTC015,Antacid Tablets,Ointment,100ml,135.56,44
+ph0016,OTC017,Ibuprofen,Capsule,20mg,148.8,2
+ph0016,OTC029,Melatonin,Drops,20mg,55.2,187
+ph0016,OTC024,Acetaminophen,Spray,325mg,65.0,55
+ph0016,OTC009,Loratadine,Drops,200mg,27.98,54
+ph0016,OTC018,Magnesium Supplement,Cream,500mg,71.22,107
+ph0016,OTC013,Iron Supplement,Cream,20mg,115.84,112
+ph0006,OTC009,Antibiotic Ointment,Tablet,325mg,9.02,53
+ph0006,OTC020,Paracetamol,Capsule,325mg,92.63,141
+ph0006,OTC026,Iron Supplement,Drops,10mg,110.57,29
+ph0006,OTC018,Throat Lozenges,Cream,10mg,83.67,135
+ph0006,OTC011,Guaifenesin,Spray,65mg,7.99,43
+ph0006,OTC029,Omeprazole,Capsule,30mg,48.85,142
+ph0006,OTC022,Loratadine,Tablet,500mg,128.96,44
+ph0006,OTC008,Cetirizine,Solution,750mg,71.43,115
+ph0006,OTC024,Dextromethorphan,Spray,1%,30.07,41
+ph0006,OTC001,Electrolyte Solution,Ointment,10mg,59.66,68
+ph0006,OTC016,Phenylephrine,Solution,30mg,89.0,104
+ph0006,OTC023,Acetaminophen,Capsule,65mg,66.62,126
+ph0006,OTC019,Hydrocortisone Cream,Cream,1%,32.75,170
+ph0006,OTC027,Aspirin,Syrup,15g,121.56,40
+ph0006,OTC010,Antacid Tablets,Syrup,500mg,39.52,107
+ph0005,OTC030,Pseudoephedrine,Spray,1%,74.17,57
+ph0005,OTC022,Omeprazole,Solution,24 count,37.64,74
+ph0005,OTC001,Aspirin,Cream,325mg,45.65,125
+ph0005,OTC010,Acetaminophen,Lozenge,24 count,133.91,53
+ph0005,OTC017,Saline Nasal Spray,Solution,750mg,102.49,80
+ph0005,OTC026,Hydrocortisone Cream,Tablet,30mg,16.18,152
+ph0005,OTC008,Iron Supplement,Syrup,200mg,124.23,157
+ph0005,OTC015,Electrolyte Solution,Ointment,15g,140.93,92
+ph0005,OTC016,Cough Syrup,Drops,325mg,113.45,148
+ph0005,OTC020,Diphenhydramine,Tablet,30mg,131.29,26
+ph0005,OTC018,Antacid Tablets,Capsule,20mg,50.15,164
+ph0005,OTC011,Chlorpheniramine,Tablet,200mg,91.96,16
+ph0005,OTC009,Calcium Supplement,Lozenge,30mg,115.16,171
+ph0005,OTC003,Probiotic,Capsule,200mg,119.2,3
+ph0005,OTC029,Melatonin,Tablet,200mg,147.21,117
+ph0034,OTC016,Vitamin C,Ointment,100ml,9.94,28
+ph0034,OTC012,Antibiotic Ointment,Cream,500mg,72.23,177
+ph0034,OTC004,Antacid Tablets,Cream,10mg,91.59,77
+ph0034,OTC002,Guaifenesin,Lozenge,500mg,117.13,101
+ph0034,OTC013,Electrolyte Solution,Spray,65mg,28.51,183
+ph0034,OTC005,Cough Syrup,Cream,500mg,140.37,99
+ph0034,OTC030,Naproxen,Solution,500mg,90.43,70
+ph0034,OTC007,Loratadine,Solution,15g,113.13,134
+ph0034,OTC019,Eye Drops,Tablet,325mg,49.89,184
+ph0034,OTC022,Magnesium Supplement,Spray,24 count,141.63,167
+ph0034,OTC003,Pseudoephedrine,Tablet,15g,122.18,64
+ph0034,OTC009,Acetaminophen,Lozenge,15g,106.81,6
+ph0034,OTC025,Omeprazole,Capsule,10mg,78.88,110
+ph0034,OTC010,Zinc Supplement,Spray,10mg,22.57,89
+ph0034,OTC027,Probiotic,Solution,10mg,31.5,156
+ph0074,OTC025,Paracetamol,Lozenge,24 count,93.76,45
+ph0074,OTC013,Antacid Tablets,Lozenge,200mg,92.0,80
+ph0074,OTC014,Zinc Supplement,Solution,10mg,43.8,79
+ph0074,OTC007,Saline Nasal Spray,Spray,30mg,95.39,145
+ph0074,OTC004,Iron Supplement,Lozenge,325mg,34.84,36
+ph0074,OTC016,Diphenhydramine,Cream,65mg,59.97,152
+ph0074,OTC008,Cough Syrup,Spray,15g,49.66,47
+ph0074,OTC026,Cetirizine,Drops,65mg,125.86,97
+ph0074,OTC018,Ibuprofen,Solution,20mg,12.06,180
+ph0074,OTC010,Melatonin,Cream,325mg,126.87,0
+ph0074,OTC011,Hydrocortisone Cream,Capsule,65mg,69.72,90
+ph0074,OTC019,Electrolyte Solution,Cream,200mg,53.82,19
+ph0074,OTC020,Naproxen,Solution,15g,41.88,83
+ph0074,OTC027,Calcium Supplement,Syrup,65mg,124.9,18
+ph0074,OTC030,Dextromethorphan,Drops,500mg,127.3,43
+ph0099,OTC012,Diphenhydramine,Drops,325mg,95.0,45
+ph0099,OTC025,Magnesium Supplement,Tablet,200mg,26.28,139
+ph0099,OTC016,Antibiotic Ointment,Tablet,10mg,64.43,169
+ph0099,OTC002,Naproxen,Drops,100ml,83.49,115
+ph0099,OTC008,Electrolyte Solution,Capsule,250mg,105.85,196
+ph0099,OTC022,Chlorpheniramine,Spray,325mg,92.39,64
+ph0099,OTC015,Antacid Tablets,Cream,500mg,124.22,176
+ph0099,OTC006,Melatonin,Solution,200mg,132.54,12
+ph0099,OTC007,Guaifenesin,Cream,30mg,68.79,78
+ph0099,OTC017,Pseudoephedrine,Drops,65mg,62.75,146
+ph0099,OTC010,Omeprazole,Drops,10mg,128.35,193
+ph0099,OTC028,Hydrocortisone Cream,Cream,1%,70.68,9
+ph0099,OTC019,Iron Supplement,Ointment,200mg,123.25,181
+ph0099,OTC027,Ibuprofen,Cream,15g,111.04,9
+ph0099,OTC001,Dextromethorphan,Syrup,65mg,55.59,175
+ph0071,OTC010,Multivitamin,Spray,24 count,59.52,26
+ph0071,OTC012,Loratadine,Cream,10mg,83.01,45
+ph0071,OTC002,Antacid Tablets,Cream,750mg,91.35,113
+ph0071,OTC024,Chlorpheniramine,Ointment,100ml,141.66,13
+ph0071,OTC016,Probiotic,Ointment,1%,86.43,82
+ph0071,OTC020,Diphenhydramine,Lozenge,65mg,16.74,38
+ph0071,OTC006,Eye Drops,Syrup,10mg,19.94,167
+ph0071,OTC021,Iron Supplement,Ointment,750mg,126.01,15
+ph0071,OTC018,Acetaminophen,Syrup,20mg,5.07,75
+ph0071,OTC028,Cough Syrup,Drops,200mg,68.45,26
+ph0071,OTC004,Naproxen,Ointment,10mg,85.39,98
+ph0071,OTC013,Ibuprofen,Tablet,15g,119.34,39
+ph0071,OTC023,Cetirizine,Syrup,20mg,137.01,162
+ph0071,OTC005,Zinc Supplement,Ointment,1%,78.71,167
+ph0071,OTC014,Phenylephrine,Solution,200mg,26.0,190
+ph0056,OTC010,Paracetamol,Solution,10mg,66.94,124
+ph0056,OTC021,Naproxen,Cream,24 count,6.01,105
+ph0056,OTC001,Guaifenesin,Ointment,250mg,44.58,94
+ph0056,OTC019,Diphenhydramine,Tablet,20mg,131.74,6
+ph0056,OTC005,Chlorpheniramine,Cream,10mg,54.54,123
+ph0056,OTC020,Cough Syrup,Spray,20mg,50.06,132
+ph0056,OTC022,Antibiotic Ointment,Cream,65mg,67.41,22
+ph0056,OTC026,Dextromethorphan,Spray,10mg,116.71,109
+ph0056,OTC028,Acetaminophen,Lozenge,15g,44.11,77
+ph0056,OTC002,Omeprazole,Capsule,1%,130.31,66
+ph0056,OTC018,Vitamin C,Lozenge,325mg,103.17,140
+ph0056,OTC015,Calcium Supplement,Spray,100ml,7.43,194
+ph0056,OTC009,Zinc Supplement,Tablet,750mg,145.37,183
+ph0056,OTC007,Cetirizine,Tablet,1%,117.9,190
+ph0056,OTC025,Iron Supplement,Tablet,500mg,95.23,113
+ph0096,OTC026,Dextromethorphan,Syrup,65mg,32.46,85
+ph0096,OTC002,Loratadine,Solution,200mg,85.55,69
+ph0096,OTC012,Ibuprofen,Syrup,200mg,135.72,99
+ph0096,OTC004,Melatonin,Spray,100ml,13.69,62
+ph0096,OTC011,Probiotic,Lozenge,750mg,145.86,176
+ph0096,OTC022,Saline Nasal Spray,Drops,10mg,21.45,190
+ph0096,OTC016,Antibiotic Ointment,Spray,100ml,20.62,154
+ph0096,OTC017,Omeprazole,Capsule,250mg,116.43,196
+ph0096,OTC029,Electrolyte Solution,Tablet,30mg,29.23,132
+ph0096,OTC003,Eye Drops,Drops,500mg,51.06,45
+ph0096,OTC020,Vitamin C,Ointment,1%,22.32,95
+ph0096,OTC025,Aspirin,Capsule,20mg,128.95,186
+ph0096,OTC023,Magnesium Supplement,Ointment,200mg,131.77,124
+ph0096,OTC008,Calcium Supplement,Lozenge,10mg,146.26,184
+ph0096,OTC024,Naproxen,Capsule,500mg,5.8,137
+ph0059,OTC017,Paracetamol,Drops,20mg,32.55,16
+ph0059,OTC006,Cetirizine,Syrup,30mg,81.55,81
+ph0059,OTC027,Guaifenesin,Ointment,10mg,57.01,84
+ph0059,OTC016,Pseudoephedrine,Capsule,1%,102.02,9
+ph0059,OTC030,Hydrocortisone Cream,Cream,15g,38.8,106
+ph0059,OTC025,Magnesium Supplement,Ointment,1%,81.56,106
+ph0059,OTC024,Calcium Supplement,Syrup,750mg,46.46,121
+ph0059,OTC018,Antacid Tablets,Syrup,10mg,118.79,162
+ph0059,OTC009,Antibiotic Ointment,Lozenge,15g,52.55,124
+ph0059,OTC022,Ibuprofen,Cream,500mg,121.99,189
+ph0059,OTC013,Iron Supplement,Lozenge,15g,140.47,158
+ph0059,OTC021,Eye Drops,Syrup,500mg,124.95,74
+ph0059,OTC008,Aspirin,Solution,20mg,48.91,167
+ph0059,OTC011,Dextromethorphan,Cream,250mg,93.3,22
+ph0059,OTC020,Acetaminophen,Cream,30mg,49.6,193
+ph0053,OTC001,Acetaminophen,Solution,325mg,100.34,3
+ph0053,OTC018,Naproxen,Solution,200mg,8.64,181
+ph0053,OTC002,Saline Nasal Spray,Ointment,500mg,41.56,160
+ph0053,OTC003,Vitamin C,Syrup,100ml,107.56,106
+ph0053,OTC004,Eye Drops,Cream,65mg,54.06,107
+ph0053,OTC016,Pseudoephedrine,Solution,24 count,84.58,101
+ph0053,OTC009,Zinc Supplement,Lozenge,10mg,108.08,42
+ph0053,OTC008,Dextromethorphan,Syrup,325mg,42.57,114
+ph0053,OTC021,Omeprazole,Cream,750mg,13.94,119
+ph0053,OTC010,Electrolyte Solution,Lozenge,15g,125.27,158
+ph0053,OTC012,Magnesium Supplement,Spray,15g,137.31,154
+ph0053,OTC013,Melatonin,Lozenge,1%,33.8,180
+ph0053,OTC006,Iron Supplement,Tablet,20mg,114.54,72
+ph0053,OTC023,Ibuprofen,Cream,20mg,62.24,42
+ph0053,OTC025,Paracetamol,Lozenge,24 count,109.73,118
+ph0065,OTC026,Paracetamol,Spray,15g,129.56,45
+ph0065,OTC012,Diphenhydramine,Drops,10mg,45.31,142
+ph0065,OTC009,Acetaminophen,Syrup,250mg,63.09,112
+ph0065,OTC019,Vitamin C,Capsule,30mg,134.38,147
+ph0065,OTC016,Iron Supplement,Syrup,750mg,30.04,96
+ph0065,OTC005,Naproxen,Syrup,325mg,32.68,53
+ph0065,OTC015,Zinc Supplement,Capsule,10mg,25.89,115
+ph0065,OTC030,Ibuprofen,Tablet,500mg,130.84,44
+ph0065,OTC028,Antacid Tablets,Tablet,250mg,54.92,118
+ph0065,OTC022,Aspirin,Lozenge,10mg,29.08,13
+ph0065,OTC021,Antibiotic Ointment,Lozenge,30mg,127.34,99
+ph0065,OTC003,Calcium Supplement,Capsule,250mg,66.38,99
+ph0065,OTC018,Throat Lozenges,Lozenge,10mg,97.29,66
+ph0065,OTC025,Guaifenesin,Drops,200mg,10.35,4
+ph0065,OTC007,Cough Syrup,Drops,325mg,56.69,117
+ph0008,OTC007,Zinc Supplement,Lozenge,15g,102.34,74
+ph0008,OTC001,Multivitamin,Lozenge,100ml,127.73,168
+ph0008,OTC008,Antacid Tablets,Spray,100ml,112.14,27
+ph0008,OTC028,Electrolyte Solution,Tablet,65mg,92.08,158
+ph0008,OTC029,Aspirin,Solution,15g,120.55,105
+ph0008,OTC016,Saline Nasal Spray,Syrup,65mg,23.87,156
+ph0008,OTC019,Diphenhydramine,Ointment,100ml,64.19,117
+ph0008,OTC020,Iron Supplement,Drops,10mg,125.42,174
+ph0008,OTC009,Loratadine,Lozenge,15g,35.19,148
+ph0008,OTC006,Paracetamol,Cream,65mg,58.72,137
+ph0008,OTC023,Ibuprofen,Spray,250mg,140.88,97
+ph0008,OTC004,Probiotic,Lozenge,65mg,68.59,11
+ph0008,OTC030,Throat Lozenges,Capsule,250mg,88.92,16
+ph0008,OTC014,Omeprazole,Lozenge,20mg,107.55,35
+ph0008,OTC012,Cough Syrup,Spray,500mg,10.51,175
+ph0001,OTC008,Calcium Supplement,Cream,750mg,96.97,11
+ph0001,OTC003,Guaifenesin,Tablet,10mg,101.95,200
+ph0001,OTC021,Naproxen,Tablet,325mg,66.65,157
+ph0001,OTC027,Melatonin,Solution,1%,32.7,113
+ph0001,OTC002,Loratadine,Syrup,325mg,17.21,124
+ph0001,OTC025,Probiotic,Ointment,20mg,130.16,98
+ph0001,OTC019,Antacid Tablets,Capsule,65mg,76.98,99
+ph0001,OTC022,Paracetamol,Drops,30mg,65.12,31
+ph0001,OTC007,Dextromethorphan,Solution,500mg,129.0,86
+ph0001,OTC004,Aspirin,Spray,20mg,81.9,164
+ph0001,OTC023,Chlorpheniramine,Drops,30mg,137.66,155
+ph0001,OTC024,Magnesium Supplement,Spray,750mg,5.56,170
+ph0001,OTC030,Cough Syrup,Ointment,65mg,114.2,108
+ph0001,OTC006,Hydrocortisone Cream,Syrup,20mg,63.51,108
+ph0001,OTC009,Acetaminophen,Ointment,750mg,29.8,116
+ph0063,OTC018,Aspirin,Solution,24 count,44.81,190
+ph0063,OTC007,Cough Syrup,Lozenge,20mg,39.86,187
+ph0063,OTC004,Diphenhydramine,Syrup,15g,47.6,66
+ph0063,OTC020,Hydrocortisone Cream,Ointment,15g,110.75,124
+ph0063,OTC013,Antacid Tablets,Capsule,750mg,78.44,89
+ph0063,OTC029,Guaifenesin,Capsule,24 count,60.2,86
+ph0063,OTC008,Pseudoephedrine,Drops,325mg,9.85,29
+ph0063,OTC030,Iron Supplement,Lozenge,250mg,11.37,105
+ph0063,OTC019,Acetaminophen,Spray,500mg,17.99,196
+ph0063,OTC005,Dextromethorphan,Syrup,250mg,95.52,124
+ph0063,OTC014,Calcium Supplement,Ointment,30mg,100.21,164
+ph0063,OTC012,Antibiotic Ointment,Syrup,200mg,119.32,56
+ph0063,OTC016,Naproxen,Solution,30mg,146.15,109
+ph0063,OTC021,Melatonin,Drops,15g,116.22,155
+ph0063,OTC026,Multivitamin,Capsule,65mg,8.33,130
+ph0014,OTC026,Cetirizine,Spray,250mg,87.48,100
+ph0014,OTC019,Melatonin,Drops,30mg,118.31,63
+ph0014,OTC028,Loratadine,Tablet,250mg,144.78,180
+ph0014,OTC022,Antacid Tablets,Tablet,200mg,80.75,65
+ph0014,OTC023,Zinc Supplement,Spray,10mg,77.48,119
+ph0014,OTC013,Antibiotic Ointment,Capsule,100ml,132.01,192
+ph0014,OTC006,Aspirin,Ointment,15g,20.29,11
+ph0014,OTC017,Dextromethorphan,Lozenge,1%,100.19,195
+ph0014,OTC011,Vitamin C,Spray,250mg,143.9,53
+ph0014,OTC015,Guaifenesin,Spray,500mg,86.91,160
+ph0014,OTC018,Naproxen,Syrup,20mg,108.35,160
+ph0014,OTC009,Electrolyte Solution,Tablet,1%,71.2,59
+ph0014,OTC004,Multivitamin,Capsule,750mg,16.61,57
+ph0014,OTC008,Pseudoephedrine,Ointment,15g,122.99,70
+ph0014,OTC012,Magnesium Supplement,Ointment,20mg,52.18,164
+ph0070,OTC009,Iron Supplement,Tablet,200mg,140.14,92
+ph0070,OTC013,Diphenhydramine,Cream,24 count,81.18,184
+ph0070,OTC030,Multivitamin,Spray,15g,87.36,16
+ph0070,OTC027,Cough Syrup,Capsule,250mg,14.99,15
+ph0070,OTC010,Paracetamol,Spray,250mg,106.87,1
+ph0070,OTC021,Chlorpheniramine,Capsule,30mg,115.08,6
+ph0070,OTC029,Naproxen,Ointment,500mg,78.03,116
+ph0070,OTC020,Hydrocortisone Cream,Drops,10mg,68.98,93
+ph0070,OTC002,Magnesium Supplement,Lozenge,200mg,13.0,141
+ph0070,OTC006,Antacid Tablets,Spray,500mg,56.96,18
+ph0070,OTC028,Acetaminophen,Capsule,65mg,72.1,191
+ph0070,OTC011,Pseudoephedrine,Tablet,750mg,93.65,192
+ph0070,OTC008,Antibiotic Ointment,Syrup,325mg,56.67,165
+ph0070,OTC016,Zinc Supplement,Cream,100ml,120.51,59
+ph0070,OTC018,Guaifenesin,Drops,15g,48.17,179
+ph0019,OTC016,Antacid Tablets,Lozenge,65mg,70.06,49
+ph0019,OTC012,Saline Nasal Spray,Solution,30mg,104.52,97
+ph0019,OTC009,Electrolyte Solution,Lozenge,500mg,136.48,120
+ph0019,OTC015,Omeprazole,Drops,100ml,77.82,56
+ph0019,OTC029,Magnesium Supplement,Cream,325mg,14.0,63
+ph0019,OTC022,Ibuprofen,Lozenge,200mg,111.24,48
+ph0019,OTC006,Naproxen,Tablet,500mg,75.61,9
+ph0019,OTC007,Paracetamol,Lozenge,250mg,19.37,108
+ph0019,OTC018,Diphenhydramine,Solution,65mg,92.92,150
+ph0019,OTC013,Aspirin,Tablet,24 count,46.64,16
+ph0019,OTC017,Throat Lozenges,Drops,1%,49.72,66
+ph0019,OTC025,Iron Supplement,Tablet,24 count,133.33,182
+ph0019,OTC010,Vitamin C,Lozenge,250mg,146.88,178
+ph0019,OTC011,Melatonin,Spray,325mg,114.96,29
+ph0019,OTC026,Cough Syrup,Lozenge,1%,28.77,74
+ph0078,OTC028,Throat Lozenges,Lozenge,500mg,18.66,87
+ph0078,OTC011,Electrolyte Solution,Solution,325mg,126.59,99
+ph0078,OTC010,Loratadine,Spray,750mg,55.67,191
+ph0078,OTC018,Cetirizine,Spray,200mg,133.57,151
+ph0078,OTC004,Multivitamin,Lozenge,750mg,50.07,145
+ph0078,OTC013,Omeprazole,Tablet,15g,33.2,96
+ph0078,OTC022,Probiotic,Tablet,250mg,43.38,50
+ph0078,OTC006,Hydrocortisone Cream,Solution,100ml,120.84,79
+ph0078,OTC024,Naproxen,Ointment,750mg,43.99,75
+ph0078,OTC020,Diphenhydramine,Spray,30mg,44.6,178
+ph0078,OTC002,Paracetamol,Drops,100ml,38.72,19
+ph0078,OTC001,Dextromethorphan,Capsule,100ml,78.2,173
+ph0078,OTC029,Chlorpheniramine,Syrup,65mg,45.09,93
+ph0078,OTC016,Ibuprofen,Lozenge,200mg,135.86,90
+ph0078,OTC019,Calcium Supplement,Capsule,15g,46.97,34
+ph0084,OTC001,Cough Syrup,Syrup,10mg,33.09,151
+ph0084,OTC021,Guaifenesin,Spray,750mg,79.03,112
+ph0084,OTC008,Antibiotic Ointment,Tablet,15g,121.3,33
+ph0084,OTC030,Magnesium Supplement,Cream,200mg,109.72,165
+ph0084,OTC024,Iron Supplement,Tablet,200mg,102.88,153
+ph0084,OTC005,Multivitamin,Drops,20mg,115.85,114
+ph0084,OTC015,Acetaminophen,Capsule,100ml,26.34,190
+ph0084,OTC016,Eye Drops,Tablet,30mg,122.46,99
+ph0084,OTC007,Aspirin,Solution,325mg,75.18,71
+ph0084,OTC025,Cetirizine,Drops,65mg,31.48,58
+ph0084,OTC014,Dextromethorphan,Lozenge,20mg,85.31,29
+ph0084,OTC013,Antacid Tablets,Tablet,20mg,129.76,152
+ph0084,OTC022,Ibuprofen,Solution,24 count,85.78,149
+ph0084,OTC019,Chlorpheniramine,Capsule,30mg,23.82,143
+ph0084,OTC028,Omeprazole,Capsule,30mg,106.85,177
+ph0036,OTC017,Guaifenesin,Lozenge,750mg,58.35,17
+ph0036,OTC002,Probiotic,Syrup,325mg,88.83,57
+ph0036,OTC030,Aspirin,Ointment,250mg,9.92,50
+ph0036,OTC009,Ibuprofen,Lozenge,15g,60.12,69
+ph0036,OTC001,Iron Supplement,Drops,20mg,63.51,69
+ph0036,OTC018,Omeprazole,Drops,250mg,84.61,38
+ph0036,OTC023,Chlorpheniramine,Ointment,100ml,36.95,175
+ph0036,OTC019,Magnesium Supplement,Capsule,24 count,124.17,160
+ph0036,OTC005,Antibiotic Ointment,Lozenge,500mg,61.9,94
+ph0036,OTC004,Acetaminophen,Drops,200mg,120.47,29
+ph0036,OTC015,Loratadine,Capsule,20mg,121.8,190
+ph0036,OTC016,Pseudoephedrine,Capsule,750mg,105.41,94
+ph0036,OTC008,Melatonin,Capsule,250mg,51.07,124
+ph0036,OTC006,Electrolyte Solution,Lozenge,325mg,17.2,105
+ph0036,OTC021,Cetirizine,Ointment,10mg,48.75,91
+ph0049,OTC011,Antacid Tablets,Syrup,100ml,46.84,48
+ph0049,OTC020,Probiotic,Solution,24 count,53.49,180
+ph0049,OTC021,Acetaminophen,Spray,10mg,41.08,20
+ph0049,OTC018,Melatonin,Solution,24 count,98.33,143
+ph0049,OTC029,Diphenhydramine,Ointment,65mg,91.6,75
+ph0049,OTC003,Guaifenesin,Syrup,65mg,92.2,109
+ph0049,OTC024,Vitamin C,Ointment,500mg,44.4,193
+ph0049,OTC015,Aspirin,Syrup,15g,47.86,125
+ph0049,OTC030,Multivitamin,Spray,100ml,54.88,16
+ph0049,OTC019,Phenylephrine,Tablet,500mg,43.48,28
+ph0049,OTC027,Magnesium Supplement,Drops,325mg,22.58,60
+ph0049,OTC001,Saline Nasal Spray,Cream,250mg,59.65,52
+ph0049,OTC009,Chlorpheniramine,Spray,100ml,129.37,177
+ph0049,OTC016,Hydrocortisone Cream,Lozenge,325mg,39.1,125
+ph0049,OTC004,Dextromethorphan,Solution,15g,113.7,131
+ph0052,OTC028,Loratadine,Syrup,30mg,71.43,185
+ph0052,OTC003,Antacid Tablets,Cream,1%,40.89,150
+ph0052,OTC014,Probiotic,Syrup,750mg,24.38,197
+ph0052,OTC004,Ibuprofen,Solution,250mg,87.76,160
+ph0052,OTC025,Hydrocortisone Cream,Lozenge,20mg,123.07,168
+ph0052,OTC011,Aspirin,Tablet,1%,29.75,53
+ph0052,OTC008,Electrolyte Solution,Ointment,20mg,17.49,89
+ph0052,OTC007,Vitamin C,Solution,20mg,128.76,143
+ph0052,OTC018,Cetirizine,Solution,20mg,85.76,41
+ph0052,OTC019,Naproxen,Spray,15g,72.17,122
+ph0052,OTC030,Magnesium Supplement,Lozenge,30mg,116.83,15
+ph0052,OTC001,Saline Nasal Spray,Tablet,325mg,35.49,10
+ph0052,OTC005,Throat Lozenges,Cream,250mg,68.76,53
+ph0052,OTC013,Pseudoephedrine,Cream,325mg,31.09,149
+ph0052,OTC016,Acetaminophen,Solution,65mg,10.47,187
+ph0089,OTC028,Probiotic,Solution,250mg,68.43,160
+ph0089,OTC005,Ibuprofen,Syrup,10mg,11.92,175
+ph0089,OTC001,Hydrocortisone Cream,Syrup,10mg,112.48,158
+ph0089,OTC026,Paracetamol,Lozenge,1%,137.18,86
+ph0089,OTC020,Zinc Supplement,Syrup,65mg,127.29,191
+ph0089,OTC015,Saline Nasal Spray,Syrup,20mg,114.5,141
+ph0089,OTC002,Dextromethorphan,Drops,24 count,49.85,166
+ph0089,OTC025,Diphenhydramine,Capsule,10mg,11.24,22
+ph0089,OTC019,Aspirin,Cream,325mg,8.06,43
+ph0089,OTC016,Guaifenesin,Ointment,15g,133.76,28
+ph0089,OTC008,Chlorpheniramine,Tablet,20mg,26.19,141
+ph0089,OTC012,Loratadine,Syrup,750mg,80.67,18
+ph0089,OTC024,Throat Lozenges,Capsule,15g,133.39,91
+ph0089,OTC011,Calcium Supplement,Tablet,65mg,45.84,163
+ph0089,OTC018,Vitamin C,Ointment,200mg,7.1,0
+ph0035,OTC025,Melatonin,Ointment,200mg,72.14,86
+ph0035,OTC030,Magnesium Supplement,Tablet,30mg,42.14,103
+ph0035,OTC001,Calcium Supplement,Syrup,15g,7.3,184
+ph0035,OTC003,Hydrocortisone Cream,Tablet,500mg,85.67,158
+ph0035,OTC021,Multivitamin,Spray,325mg,130.65,14
+ph0035,OTC011,Cough Syrup,Solution,15g,64.62,195
+ph0035,OTC023,Probiotic,Solution,750mg,71.29,125
+ph0035,OTC002,Iron Supplement,Solution,10mg,129.75,164
+ph0035,OTC020,Vitamin C,Spray,20mg,87.86,101
+ph0035,OTC026,Acetaminophen,Capsule,65mg,72.85,183
+ph0035,OTC006,Zinc Supplement,Solution,24 count,35.83,4
+ph0035,OTC007,Throat Lozenges,Syrup,325mg,138.48,55
+ph0035,OTC028,Antacid Tablets,Solution,250mg,20.31,35
+ph0035,OTC022,Electrolyte Solution,Lozenge,325mg,73.5,79
+ph0035,OTC029,Naproxen,Lozenge,65mg,44.14,166
+ph0086,OTC011,Guaifenesin,Syrup,325mg,51.11,162
+ph0086,OTC027,Phenylephrine,Cream,100ml,98.7,4
+ph0086,OTC019,Chlorpheniramine,Tablet,500mg,80.27,196
+ph0086,OTC017,Eye Drops,Syrup,200mg,6.12,87
+ph0086,OTC018,Multivitamin,Solution,15g,122.05,36
+ph0086,OTC007,Iron Supplement,Spray,24 count,46.12,163
+ph0086,OTC001,Magnesium Supplement,Capsule,325mg,61.25,63
+ph0086,OTC014,Electrolyte Solution,Cream,100ml,96.62,46
+ph0086,OTC003,Diphenhydramine,Lozenge,20mg,36.08,158
+ph0086,OTC030,Throat Lozenges,Tablet,500mg,51.22,36
+ph0086,OTC008,Cetirizine,Ointment,15g,45.01,114
+ph0086,OTC026,Acetaminophen,Solution,15g,140.45,194
+ph0086,OTC015,Ibuprofen,Cream,200mg,29.26,160
+ph0086,OTC016,Antibiotic Ointment,Lozenge,10mg,126.57,30
+ph0086,OTC028,Naproxen,Solution,250mg,59.8,31
+ph0029,OTC005,Antibiotic Ointment,Tablet,100ml,73.35,68
+ph0029,OTC023,Eye Drops,Syrup,325mg,27.72,146
+ph0029,OTC020,Throat Lozenges,Syrup,100ml,53.8,84
+ph0029,OTC001,Cough Syrup,Spray,750mg,24.52,0
+ph0029,OTC002,Diphenhydramine,Syrup,325mg,144.49,171
+ph0029,OTC019,Loratadine,Solution,30mg,50.77,86
+ph0029,OTC022,Iron Supplement,Capsule,500mg,135.89,126
+ph0029,OTC028,Vitamin C,Syrup,65mg,24.97,108
+ph0029,OTC003,Probiotic,Capsule,325mg,111.68,73
+ph0029,OTC015,Guaifenesin,Syrup,30mg,66.24,149
+ph0029,OTC007,Antacid Tablets,Solution,325mg,110.08,78
+ph0029,OTC018,Aspirin,Tablet,65mg,19.55,98
+ph0029,OTC021,Ibuprofen,Spray,30mg,144.95,186
+ph0029,OTC004,Magnesium Supplement,Capsule,65mg,71.17,30
+ph0029,OTC014,Omeprazole,Tablet,750mg,7.88,36

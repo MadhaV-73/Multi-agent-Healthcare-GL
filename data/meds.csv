@@ -1,0 +1,31 @@
+sku,drug_name,indication,age_min,contra_allergy_keywords,form,strength,otc_status
+OTC001,Paracetamol,fever pain headache,0,paracetamol acetaminophen,Tablet,500mg,OTC
+OTC002,Ibuprofen,pain inflammation fever,12,ibuprofen nsaid aspirin,Tablet,200mg,OTC
+OTC003,Cetirizine,allergy cold rhinitis,6,cetirizine antihistamine,Tablet,10mg,OTC
+OTC004,Omeprazole,acidity heartburn gastritis,18,omeprazole ppi,Capsule,20mg,OTC
+OTC005,Cough Syrup,cough cold bronchitis,2,codeine,Syrup,100ml,OTC
+OTC006,Vitamin C,immunity cold prevention,0,none,Tablet,500mg,OTC
+OTC007,Zinc Supplement,immunity cold recovery,12,none,Tablet,50mg,OTC
+OTC008,Chlorpheniramine,allergy cold sneezing,6,antihistamine,Tablet,4mg,OTC
+OTC009,Dextromethorphan,dry cough suppressant,12,dextromethorphan,Syrup,100ml,OTC
+OTC010,Guaifenesin,chest congestion mucus,6,guaifenesin expectorant,Syrup,100ml,OTC
+OTC011,Loratadine,allergy rhinitis itching,6,loratadine antihistamine,Tablet,10mg,OTC
+OTC012,Diphenhydramine,allergy sleep aid,12,diphenhydramine benadryl,Tablet,25mg,OTC
+OTC013,Aspirin,pain fever inflammation,18,aspirin nsaid salicylate,Tablet,325mg,OTC
+OTC014,Naproxen,pain inflammation arthritis,18,naproxen nsaid,Tablet,220mg,OTC
+OTC015,Acetaminophen,fever pain headache,0,paracetamol acetaminophen,Tablet,325mg,OTC
+OTC016,Pseudoephedrine,nasal congestion cold,12,pseudoephedrine decongestant,Tablet,30mg,OTC
+OTC017,Phenylephrine,nasal congestion sinus,12,phenylephrine,Tablet,10mg,OTC
+OTC018,Antacid Tablets,acidity heartburn indigestion,6,none,Tablet,750mg,OTC
+OTC019,Probiotic,digestion gut health diarrhea,0,none,Capsule,10billion CFU,OTC
+OTC020,Melatonin,sleep insomnia jet lag,18,none,Tablet,3mg,OTC
+OTC021,Hydrocortisone Cream,skin rash itching,2,hydrocortisone steroid,Cream,1%,OTC
+OTC022,Antibiotic Ointment,cuts wounds infection,0,neomycin bacitracin,Ointment,15g,OTC
+OTC023,Throat Lozenges,sore throat cough,6,none,Lozenge,24 count,OTC
+OTC024,Electrolyte Solution,dehydration diarrhea vomiting,0,none,Solution,500ml,OTC
+OTC025,Magnesium Supplement,muscle cramps constipation,18,none,Tablet,250mg,OTC
+OTC026,Multivitamin,nutrition immunity health,12,none,Tablet,Daily,OTC
+OTC027,Calcium Supplement,bone health osteoporosis,18,none,Tablet,500mg,OTC
+OTC028,Iron Supplement,anemia fatigue,18,iron,Tablet,65mg,OTC
+OTC029,Eye Drops,dry eyes irritation,6,none,Drops,10ml,OTC
+OTC030,Saline Nasal Spray,congestion dryness sinus,0,none,Spray,30ml,OTC
