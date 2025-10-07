@@ -4,6 +4,7 @@ Integrated with Coordinator pipeline
 """
 
 import json
+import os
 from datetime import datetime
 from pathlib import Path
 
@@ -12,7 +13,17 @@ import requests
 import streamlit as st
 
 # API Configuration
-API_BASE_URL = "http://localhost:8000"
+# Priority: Streamlit secrets > Environment variable > Default production URL
+try:
+    API_BASE_URL = st.secrets.get("api", {}).get("base_url", None)
+except:
+    API_BASE_URL = None
+
+if not API_BASE_URL:
+    API_BASE_URL = os.getenv("API_BASE_URL", "https://multi-agent-healthcare-gl-1.onrender.com")
+
+# Remove trailing slash if present
+API_BASE_URL = API_BASE_URL.rstrip("/")
 
 
 @st.cache_data(show_spinner=False)

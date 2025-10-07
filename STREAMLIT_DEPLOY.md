@@ -62,40 +62,49 @@ Follow these steps to deploy your Streamlit application to the cloud for free!
 
 ## ⚙️ Configuration Notes
 
-### Important: Backend API Consideration
+### ✅ Backend API Configuration (Already Set Up!)
 
-**Note:** Your app currently connects to `http://localhost:8000` for the backend API. This works locally but **won't work in Streamlit Cloud** since there's no backend running there.
+**Good News!** Your backend is deployed and the app is configured to use it automatically!
 
-### Solutions:
+**Backend URL:** `https://multi-agent-healthcare-gl-1.onrender.com`
 
-#### Option 1: Deploy Backend Separately (Recommended)
-Deploy your FastAPI backend to a cloud service:
-- **Railway**: [railway.app](https://railway.app)
-- **Render**: [render.com](https://render.com)
-- **Heroku**: [heroku.com](https://heroku.com)
-- **AWS/Azure/GCP**: Cloud platforms
+The app is configured with this priority order:
+1. **Streamlit Secrets** (for Streamlit Cloud deployment)
+2. **Environment Variable** (`API_BASE_URL`)
+3. **Default Production URL** (your deployed backend)
 
-Then update the API URL in your app to point to the deployed backend.
+### For Streamlit Cloud Deployment
 
-#### Option 2: Standalone Mode (Limited Functionality)
-Modify `app_integrated.py` to work without the backend:
-- Disable API-dependent features
-- Use mock data for demonstration
-- Add a banner explaining limited functionality
+When deploying to Streamlit Cloud, add this to your app's secrets:
 
-#### Option 3: Use Streamlit Secrets for API URL
+1. Go to your app settings in Streamlit Cloud
+2. Click **"Secrets"** in the left sidebar
+3. Add the following:
 
-Add a `.streamlit/secrets.toml` file (not committed to git):
 ```toml
 [api]
-base_url = "https://your-backend-api.com"
+base_url = "https://multi-agent-healthcare-gl-1.onrender.com"
 ```
 
-Then in your code:
-```python
-import streamlit as st
-API_BASE_URL = st.secrets.get("api", {}).get("base_url", "http://localhost:8000")
+4. Click **"Save"**
+
+### For Local Development
+
+You can use either:
+
+**Option 1:** Create `.streamlit/secrets.toml` (gitignored):
+```toml
+[api]
+base_url = "https://multi-agent-healthcare-gl-1.onrender.com"
 ```
+
+**Option 2:** Set environment variable:
+```powershell
+$env:API_BASE_URL="https://multi-agent-healthcare-gl-1.onrender.com"
+streamlit run app_integrated.py
+```
+
+**Option 3:** Do nothing! The app will use the production URL by default.
 
 ---
 
