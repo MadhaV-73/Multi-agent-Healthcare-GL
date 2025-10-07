@@ -427,88 +427,49 @@ class PharmacyAgent:
         therapy_map: Dict[str, Dict],
         location_context: Dict
     ) -> Dict:
-        """Prepare final pharmacy response with all details."""
+        """Prepare final pharmacy response matching assignment contract."""
         distance_km = pharmacy['distance_km']
         eta_minutes = self._calculate_eta(distance_km)
         delivery_fee = self._calculate_delivery_fee(distance_km)
 
+        # Prepare items list matching contract format
         reserved_items: List[Dict] = []
-        subtotal = 0.0
-
+        
         for item in pharmacy['available_items']:
             sku = item['sku']
             therapy_details = therapy_map.get(sku, {})
             recommended_qty = self._estimate_required_quantity(therapy_details)
             qty_available = item['qty_available']
             reserved_qty = min(qty_available, recommended_qty)
-            line_total = round(item['price'] * reserved_qty, 2)
 
+            # Match assignment contract format
             reserved_items.append({
                 "sku": sku,
-                "drug_name": item['drug_name'],
-                "form": item['form'],
-                "strength": item['strength'],
-                "unit_price": round(item['price'], 2),
-                "quantity_available": qty_available,
-                "recommended_quantity": recommended_qty,
-                "reserved_quantity": reserved_qty,
-                "line_total": line_total,
-                "therapy_reference": {
-                    "dose": therapy_details.get("dose"),
-                    "frequency": therapy_details.get("frequency"),
-                    "duration": therapy_details.get("duration"),
-                    "warnings": therapy_details.get("warnings", [])
-                }
+                "qty": reserved_qty
             })
-            subtotal += line_total
 
-        subtotal = round(subtotal, 2)
-        total_reserved_units = sum(item["reserved_quantity"] for item in reserved_items)
-        total_price = subtotal + delivery_fee
-
-        estimated_delivery = datetime.now() + timedelta(minutes=eta_minutes)
         reservation_id, reservation_expires = self._mock_reserve_items(
             pharmacy['id'],
-            total_reserved_units
+            sum(item["qty"] for item in reserved_items)
         )
 
-        if pharmacy['stock_percentage'] == 100:
-            availability = "in_stock"
-        elif pharmacy['stock_percentage'] >= 50:
-            availability = "partial_stock"
-        else:
-            availability = "limited_stock"
-
+        # Match exact assignment output format
         return {
             "pharmacy_id": pharmacy['id'],
-            "pharmacy_name": pharmacy['name'],
-            "pharmacy_address": f"Located at ({pharmacy['lat']:.4f}, {pharmacy['lon']:.4f})",
-            "distance_km": distance_km,
+            "items": reserved_items,
             "eta_min": eta_minutes,
             "delivery_fee": delivery_fee,
-            "items": reserved_items,
-            "missing_items": pharmacy.get('missing_items', []),
-            "subtotal": subtotal,
-            "total_price": round(total_price, 2),
-            "currency": "INR",
-            "availability": availability,
-            "stock_percentage": pharmacy['stock_percentage'],
+            "pharmacy_name": pharmacy['name'],
+            "pharmacy_address": f"{pharmacy['name']} - {pharmacy['lat']:.4f}, {pharmacy['lon']:.4f}",
+            "distance_km": distance_km,
+            "city": location_context.get("city", ""),
+            "pincode": location_context.get("pincode", ""),
             "services": pharmacy.get('services', []),
-            "estimated_delivery": estimated_delivery.isoformat(),
-            "delivery_note": self._generate_delivery_note(pharmacy),
+            "estimated_delivery": (datetime.now() + timedelta(minutes=eta_minutes)).isoformat(),
             "timestamp": datetime.now().isoformat(),
-            "agent": "PharmacyAgent",
-            "status": "success",
             "reservation_id": reservation_id,
             "reservation_expires_at": reservation_expires.isoformat(),
-            "reserved_units": total_reserved_units,
-            "location_context": {
-                "input": location_context.get("raw_input"),
-                "city": location_context.get("city"),
-                "pincode_used": location_context.get("pincode"),
-                "fallback_to_default": location_context.get("used_default", False),
-                "default_coordinates_applied": location_context.get("default_coordinates_applied", False),
-            }
+            "status": "success"
         }
 
     def _calculate_eta(self, distance_km: float) -> int:

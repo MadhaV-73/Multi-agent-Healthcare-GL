@@ -619,53 +619,29 @@ def display_analysis_results(result):
             st.markdown("---")
             st.markdown("### 🏥 Matched Pharmacy")
 
+            # Display pharmacy info with city and pincode
             header_cols = st.columns(4)
             header_cols[0].metric("Pharmacy", pharmacy.get('pharmacy_name', 'N/A'))
             header_cols[1].metric("Distance", f"{pharmacy.get('distance_km', 0):.1f} km")
             header_cols[2].metric("ETA", f"{pharmacy.get('eta_min', 0)} min")
-            header_cols[3].metric("Availability", pharmacy.get('availability', 'unknown').replace('_', ' ').title())
+            header_cols[3].metric("Delivery Fee", f"₹{pharmacy.get('delivery_fee', 0):.2f}")
+
+            # Display location info prominently
+            location_info_cols = st.columns(2)
+            location_info_cols[0].info(f"📍 **City:** {pharmacy.get('city', 'N/A')}")
+            location_info_cols[1].info(f"� **Pincode:** {pharmacy.get('pincode', 'N/A')}")
 
             services = pharmacy.get('services') or []
             if services:
-                st.caption("Services: " + ", ".join(services))
-
-            location_context = pharmacy.get('location_context', {})
-            if location_context:
-                with st.expander("📍 Location context used for matching"):
-                    st.write({
-                        "input": location_context.get('input'),
-                        "city": location_context.get('city'),
-                        "pincode_used": location_context.get('pincode_used'),
-                        "fallback_to_default": location_context.get('fallback_to_default'),
-                        "default_coordinates_applied": location_context.get('default_coordinates_applied'),
-                    })
+                st.caption("🏪 Services: " + ", ".join(services))
 
             items = pharmacy.get('items', [])
             if items:
                 st.markdown("#### 🧾 Reserved Items")
                 for item in items:
-                    label = item.get('drug_name') or item.get('sku') or "Medicine"
-                    reserved_qty = item.get('reserved_quantity', 0)
-                    stock_qty = item.get('quantity_available', 0)
-                    with st.expander(f"💊 {label} · reserved {reserved_qty} of {stock_qty} available"):
-                        col1, col2 = st.columns(2)
-                        with col1:
-                            st.write(f"**Strength:** {item.get('strength', 'N/A')}")
-                            st.write(f"**Unit Price:** ₹{item.get('unit_price', 0):.2f}")
-                            st.write(f"**Line Total:** ₹{item.get('line_total', 0):.2f}")
-                        with col2:
-                            therapy_ref = item.get('therapy_reference', {})
-                            if therapy_ref:
-                                st.write("**Therapy Guidance:**")
-                                st.write({k: v for k, v in therapy_ref.items() if v})
-
-            if pharmacy.get('missing_items'):
-                st.warning("Missing items: " + ", ".join(pharmacy['missing_items']))
-
-            col_subtotal, col_delivery, col_total = st.columns(3)
-            col_subtotal.metric("Subtotal", f"₹{pharmacy.get('subtotal', 0):.2f}")
-            col_delivery.metric("Delivery Fee", f"₹{pharmacy.get('delivery_fee', 0):.2f}")
-            col_total.metric("Total", f"₹{pharmacy.get('total_price', 0):.2f}")
+                    sku = item.get('sku', 'N/A')
+                    qty = item.get('qty', 0)
+                    st.success(f"💊 **SKU:** {sku} | **Quantity Reserved:** {qty} units")
 
             reservation_id = pharmacy.get('reservation_id')
             if reservation_id:
