@@ -1,6 +1,6 @@
+import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
 import uvicorn
 import sys
 from pathlib import Path
@@ -30,29 +30,12 @@ app.include_router(router)
 @app.get("/")
 async def root():
     return {
-        "message": "Multi-Agent Healthcare API - Integrated with Agent Pipeline",
+        "message": "Multi-Agent Healthcare API - Deployed on Render",
         "status": "running",
         "version": "2.0.0",
-        "docs": "/docs",
-        "endpoints": {
-            "patient_analysis": "/api/v1/patient/analysis",
-            "xray_analysis": "/api/v1/xray/analyze (NEW - Full Pipeline Integration)",
-            "file_upload": "/api/v1/upload/documents",
-            "health_check": "/api/v1/health",
-            "test_agents": "/api/v1/test"
-        }
+        "docs": "/docs"
     }
 
-@app.get("/get")
-def test_get():
-    return {"message":"Hello world","success":True}
-
-# POST -> Upload the image / pdf or both together 
-
 if __name__ == "__main__":
-    print("🚀 Starting Multi-Agent Healthcare API...")
-    print("📊 API Documentation: http://localhost:8000/docs")
-    print("🏥 Health Check: http://localhost:8000/api/v1/health")
-    print("🧪 Test Endpoint: http://localhost:8000/api/v1/test")
-    print("✅ All 6 agents initialized")
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)

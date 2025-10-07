@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: healthcare-backend-api
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python api/main.py"
+    envVars:
+      - key: PORT
+        value: 8000
+      - key: PYTHON_VERSION
+        value: 3.11.0
