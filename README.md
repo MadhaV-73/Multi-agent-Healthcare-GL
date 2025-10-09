@@ -409,7 +409,7 @@ For issues or questions:
 - 🌐 **Backend API**: http://localhost:8000
 - 📖 **API Docs**: http://localhost:8000/docs
 - 🖥️ **Frontend UI**: http://localhost:8501
-- 📊 **Project Repository**: https://github.com/parth3083/multi-agent-healthcare
+- 📊 **Project Repository**: https://github.com/MadhaV-73/Multi-agent-Healthcare-GL
 
 ---
 
