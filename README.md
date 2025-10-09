@@ -385,8 +385,8 @@ This project is part of a multi-agent healthcare system demonstration for educat
 
 ## �‍💻 Author
 
-**Parth** (parth3083)
-- GitHub: [@parth3083](https://github.com/parth3083)
+**Madhav** (MadhaV-73)
+- GitHub: [@MadhaV-73]([(https://github.com/MadhaV-73])
 
 ## 🤝 Contributing
 
